@@ -16,6 +16,7 @@ public class StackOverFlowClient {
 	public JSONObject get(int page, int pageSize, String tag) throws ParseException {
 		String result = null;
 		try {
+			// TODO HttpClient deprecated
 			DefaultHttpClient httpClient = new DefaultHttpClient();
 			HttpGet getRequest = new HttpGet("https://api.stackexchange.com/2.2/questions?page=" + page + "&pagesize="
 					+ pageSize + "&order=desc&sort=activity&tagged=" + tag + "&site=stackoverflow");

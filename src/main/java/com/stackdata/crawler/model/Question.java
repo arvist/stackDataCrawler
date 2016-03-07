@@ -5,15 +5,6 @@ import java.util.List;
 
 public class Question {
 
-	public static final String STACK_NAMESPACE = "http://www.stackdata.com";
-	public static final String STACK_OVERFLOW = "http://www.stackoverflow.com";
-	public static final String QUESTIONS = "/questions/";
-	public static final String OWL_NAMESPACE = "https://www.w3.org/2002/07/owl";
-	public static final String SAME_AS = "#sameAs";
-	public static final String API_STACKEXCHANGE = "https://api.stackexchange.com/2.2/";
-	public static final String SITE_STACKOVERFLOW_QUERY_PARAM = "?site=stackoverflow";
-	public static final String DUBLIN_CORE_NAMESPACE = "http://purl.org/dc/elements/1.1/";
-
 	private long questionId;
 	private List<String> tags;
 	private boolean isAnswered;

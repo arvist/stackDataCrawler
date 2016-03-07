@@ -6,6 +6,7 @@ import java.util.List;
 
 public class TagsRepository {
 
+	// TODO Initialize dynamically from api.stackexchange
 	private List<String> tags = new ArrayList<String>(Arrays.asList("javascript", "java", "c#", "php", "android",
 			"jquery", "python", "html", "c++", "ios", "mysql", "css", "sql", "asp.net", "objective-c", "ruby-on-rails",
 			".net", "iphone", "c", "arrays", "sql-server", "angularjs", "ruby", "json", "ajax", "regex", "xml",

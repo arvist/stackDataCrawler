@@ -18,14 +18,14 @@ import org.apache.jena.tdb.TDB;
 import org.apache.jena.tdb.TDBFactory;
 
 import com.stackdata.crawler.model.Question;
+import com.stackdata.crawler.repository.NamespaceRepository;
+import com.stackdata.crawler.repository.ParamRepository;
 
 public class QuestionWriter {
 
 	private Dataset dataset = TDBFactory.createDataset("src/main/resources/tbd");
 	private static final String QUESTION_MODEL = "Question";
-
 	private static final boolean RDF_WRITE_SUCCESSFUL = true;
-
 	private Model model;
 
 	public void outputModelInFile() {
@@ -44,8 +44,8 @@ public class QuestionWriter {
 		try {
 			model.enterCriticalSection(Lock.WRITE);
 			for (Question question : questions) {
-				Resource subject = model.createResource(Question.STACK_NAMESPACE.concat(Question.QUESTIONS)
-						.concat(String.valueOf(question.getQuestionId())));
+				Resource subject = model.createResource(NamespaceRepository.STACKDATA_NAMESPACE
+						.concat(ParamRepository.QUESTIONS_PARAM).concat(String.valueOf(question.getQuestionId())));
 				createSameAs(subject, String.valueOf(question.getQuestionId()));
 				createTitle(subject, question.getTitle());
 				model.commit();
@@ -58,16 +58,17 @@ public class QuestionWriter {
 	}
 
 	private void createTitle(Resource subject, String title) {
-		Property predicate = model.createProperty(Question.DUBLIN_CORE_NAMESPACE.concat("title"));
-		Resource object = model.createResource(Question.STACK_NAMESPACE.concat("/title").concat(title));
+		Property predicate = model.createProperty(NamespaceRepository.DUBLIN_CORE_NAMESPACE.concat("title"));
+		Resource object = model.createResource(NamespaceRepository.STACKDATA_NAMESPACE.concat("/title").concat(title));
 		connect(subject, predicate, object);
 		return;
 	}
 
 	private void createSameAs(Resource subject, String id) {
-		Property predicate = model.createProperty(Question.OWL_NAMESPACE.concat(Question.SAME_AS));
-		Resource object = model.createResource(Question.API_STACKEXCHANGE.concat(Question.QUESTIONS)
-				.concat(id.concat(Question.SITE_STACKOVERFLOW_QUERY_PARAM)));
+		Property predicate = model
+				.createProperty(NamespaceRepository.OWL_NAMESPACE.concat(ParamRepository.SAME_AS_PARAM));
+		Resource object = model.createResource(NamespaceRepository.STACKEXCHANGE_API
+				.concat(ParamRepository.QUESTIONS_PARAM).concat(id.concat(ParamRepository.SITE_SO_QUERY_PARAM)));
 		connect(subject, predicate, object);
 		return;
 	}
