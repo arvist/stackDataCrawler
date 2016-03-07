@@ -1,4 +1,4 @@
-package com.stackdata.crawler;
+package com.stackdata.crawler.repository;
 
 import java.util.ArrayList;
 import java.util.Arrays;

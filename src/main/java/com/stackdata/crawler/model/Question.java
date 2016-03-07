@@ -1,4 +1,4 @@
-package com.stackdata.crawler;
+package com.stackdata.crawler.model;
 
 import java.util.Date;
 import java.util.List;

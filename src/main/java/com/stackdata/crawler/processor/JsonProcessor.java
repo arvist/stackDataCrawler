@@ -1,4 +1,4 @@
-package com.stackdata.crawler;
+package com.stackdata.crawler.processor;
 
 import java.util.ArrayList;
 import java.util.Date;
@@ -6,6 +6,8 @@ import java.util.List;
 
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
+
+import com.stackdata.crawler.model.Question;
 
 public class JsonProcessor {
 	List<Question> questionList = new ArrayList<Question>();

@@ -1,4 +1,4 @@
-package com.stackdata.crawler;
+package com.stackdata.crawler.ws;
 
 import java.io.IOException;
 import java.util.zip.GZIPInputStream;
