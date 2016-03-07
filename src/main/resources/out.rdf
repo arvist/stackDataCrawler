@@ -1,0 +1,405 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:j.0="https://www.w3.org/2002/07/owl#">
+  <rdf:Description rdf:about="http://www.stackdata.com/questions/33495">
+    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/33495?site=stackoverflow"/>
+    <dc:title rdf:resource="http://www.stackdata.com/titleCould you make a case for using Berkeley DB XML"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.stackdata.com/questions/16556">
+    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/16556?site=stackoverflow"/>
+    <dc:title rdf:resource="http://www.stackdata.com/titleVS.NET Application Diagrams"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.stackdata.com/questions/36028">
+    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/36028?site=stackoverflow"/>
+    <dc:title rdf:resource="http://www.stackdata.com/titleHow to assign a method&amp;#39;s output to a textbox value without code behind"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.stackdata.com/questions/33390">
+    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/33390?site=stackoverflow"/>
+    <dc:title rdf:resource="http://www.stackdata.com/titleBest use pattern for a DataContext"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.stackdata.com/questions/30337">
+    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/30337?site=stackoverflow"/>
+    <dc:title rdf:resource="http://www.stackdata.com/titleInstall-base of Java JRE?"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.stackdata.com/questions/28708">
+    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/28708?site=stackoverflow"/>
+    <dc:title rdf:resource="http://www.stackdata.com/titleProcess.StartTime Access Denied"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.stackdata.com/questions/36642">
+    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/36642?site=stackoverflow"/>
+    <dc:title rdf:resource="http://www.stackdata.com/titleListing Items and Displaying Data Inline"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.stackdata.com/questions/3234">
+    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/3234?site=stackoverflow"/>
+    <dc:title rdf:resource="http://www.stackdata.com/titleDisplaying ad content from Respose.WriteFile()/ Response.ContentType"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.stackdata.com/questions/28941">
+    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/28941?site=stackoverflow"/>
+    <dc:title rdf:resource="http://www.stackdata.com/titleBest architecture for handling file system changes?"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.stackdata.com/questions/37593">
+    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/37593?site=stackoverflow"/>
+    <dc:title rdf:resource="http://www.stackdata.com/titleWhere can I get free Vista style developer graphics?"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.stackdata.com/questions/33252">
+    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/33252?site=stackoverflow"/>
+    <dc:title rdf:resource="http://www.stackdata.com/titleGetting files and their version numbers from sharepoint"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.stackdata.com/questions/37731">
+    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/37731?site=stackoverflow"/>
+    <dc:title rdf:resource="http://www.stackdata.com/titleTo use views or not to use views"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.stackdata.com/questions/38654">
+    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/38654?site=stackoverflow"/>
+    <dc:title rdf:resource="http://www.stackdata.com/titleAutomatically floating all fields in a VFP report?"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.stackdata.com/questions/25323">
+    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/25323?site=stackoverflow"/>
+    <dc:title rdf:resource="http://www.stackdata.com/titleWCF - Domain Objects and IExtensibleDataObject"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.stackdata.com/questions/29733">
+    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/29733?site=stackoverflow"/>
+    <dc:title rdf:resource="http://www.stackdata.com/titleTrackback/Pingback libraries for Python/Ruby?"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.stackdata.com/questions/36182">
+    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/36182?site=stackoverflow"/>
+    <dc:title rdf:resource="http://www.stackdata.com/titleHow expensive is ST_GeomFromText"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.stackdata.com/questions/19089">
+    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/19089?site=stackoverflow"/>
+    <dc:title rdf:resource="http://www.stackdata.com/titleHow do I do an Upsert Into Table?"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.stackdata.com/questions/32505">
+    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/32505?site=stackoverflow"/>
+    <dc:title rdf:resource="http://www.stackdata.com/titleXML Parser Validation Report"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.stackdata.com/questions/19744">
+    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/19744?site=stackoverflow"/>
+    <dc:title rdf:resource="http://www.stackdata.com/titleTrigger without a transaction?"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.stackdata.com/questions/28529">
+    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/28529?site=stackoverflow"/>
+    <dc:title rdf:resource="http://www.stackdata.com/titleHow would you handle errors when using jQuery.ajax()?"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.stackdata.com/questions/32596">
+    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/32596?site=stackoverflow"/>
+    <dc:title rdf:resource="http://www.stackdata.com/titleOdd behaviour for rowSpan in Flex"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.stackdata.com/questions/30145">
+    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/30145?site=stackoverflow"/>
+    <dc:title rdf:resource="http://www.stackdata.com/titleEthernet MAC address as activation code for an appliance?"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.stackdata.com/questions/10999">
+    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/10999?site=stackoverflow"/>
+    <dc:title rdf:resource="http://www.stackdata.com/titleMS Team Foundation Server in distributed environments - hints tips tricks needed"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.stackdata.com/questions/30541">
+    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/30541?site=stackoverflow"/>
+    <dc:title rdf:resource="http://www.stackdata.com/titleUsing MVP - How to use Events Properly for Testing"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.stackdata.com/questions/18216">
+    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/18216?site=stackoverflow"/>
+    <dc:title rdf:resource="http://www.stackdata.com/titleQuery a union table with fields as columns"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.stackdata.com/questions/19162">
+    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/19162?site=stackoverflow"/>
+    <dc:title rdf:resource="http://www.stackdata.com/titlePHP Script to populate MySQL tables"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.stackdata.com/questions/24986">
+    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/24986?site=stackoverflow"/>
+    <dc:title rdf:resource="http://www.stackdata.com/titleHow do I profile a Maven Application in Netbeans?"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.stackdata.com/questions/30379">
+    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/30379?site=stackoverflow"/>
+    <dc:title rdf:resource="http://www.stackdata.com/titleHow do I replicate content on a web farm"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.stackdata.com/questions/35709">
+    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/35709?site=stackoverflow"/>
+    <dc:title rdf:resource="http://www.stackdata.com/titleChange Active Sound Card on the Fly"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.stackdata.com/questions/16320">
+    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/16320?site=stackoverflow"/>
+    <dc:title rdf:resource="http://www.stackdata.com/titleShould DB layer members be static or instance?"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.stackdata.com/questions/30775">
+    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/30775?site=stackoverflow"/>
+    <dc:title rdf:resource="http://www.stackdata.com/titleNHibernate and Oracle connect through Windows Authenication"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.stackdata.com/questions/30004">
+    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/30004?site=stackoverflow"/>
+    <dc:title rdf:resource="http://www.stackdata.com/titleCan you use LINQ tools such as SQLMetal with an access database?"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.stackdata.com/questions/31708">
+    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/31708?site=stackoverflow"/>
+    <dc:title rdf:resource="http://www.stackdata.com/titleHow can I convert IEnumerable&amp;lt;T&amp;gt; to List&amp;lt;T&amp;gt; in C#?"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.stackdata.com/questions/31534">
+    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/31534?site=stackoverflow"/>
+    <dc:title rdf:resource="http://www.stackdata.com/titleHas anyone moved to NHibernate 2.0 in a production environment?"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.stackdata.com/questions/22980">
+    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/22980?site=stackoverflow"/>
+    <dc:title rdf:resource="http://www.stackdata.com/titleActs-as-readable Rails plugin Issue"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.stackdata.com/questions/35304">
+    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/35304?site=stackoverflow"/>
+    <dc:title rdf:resource="http://www.stackdata.com/titleFlexUnit component testing patterns: use addAsync or manually initialize?"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.stackdata.com/questions/7287">
+    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/7287?site=stackoverflow"/>
+    <dc:title rdf:resource="http://www.stackdata.com/titleHow do you test/change untested and untestable code?"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.stackdata.com/questions/33751">
+    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/33751?site=stackoverflow"/>
+    <dc:title rdf:resource="http://www.stackdata.com/titleHow do I add a MIME type to .htaccess?"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.stackdata.com/questions/37529">
+    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/37529?site=stackoverflow"/>
+    <dc:title rdf:resource="http://www.stackdata.com/titleSimple audio input API on a Mac?"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.stackdata.com/questions/30940">
+    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/30940?site=stackoverflow"/>
+    <dc:title rdf:resource="http://www.stackdata.com/titleHow to handle error logging"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.stackdata.com/questions/35219">
+    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/35219?site=stackoverflow"/>
+    <dc:title rdf:resource="http://www.stackdata.com/titleOptimizing/Customizing Sharepoint Search Crawling"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.stackdata.com/questions/30148">
+    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/30148?site=stackoverflow"/>
+    <dc:title rdf:resource="http://www.stackdata.com/titleManual steps to upgrade VS.NET solution and target .NET framework?"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.stackdata.com/questions/30653">
+    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/30653?site=stackoverflow"/>
+    <dc:title rdf:resource="http://www.stackdata.com/titleWhat do I need to do to implement an &amp;quot;out of proc&amp;quot; COM server in C#?"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.stackdata.com/questions/38789">
+    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/38789?site=stackoverflow"/>
+    <dc:title rdf:resource="http://www.stackdata.com/titleWeb Service Namespace Dynamic Naming"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.stackdata.com/questions/10661">
+    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/10661?site=stackoverflow"/>
+    <dc:title rdf:resource="http://www.stackdata.com/titleDoes the OutputCacheFilter in the Microsoft MVC Preview 4 actually save on action invocations?"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.stackdata.com/questions/28768">
+    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/28768?site=stackoverflow"/>
+    <dc:title rdf:resource="http://www.stackdata.com/titleSimple Object to Database Product"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.stackdata.com/questions/38158">
+    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/38158?site=stackoverflow"/>
+    <dc:title rdf:resource="http://www.stackdata.com/titleWhat is a good maintainability index using Visual Studio 2008 code analysis?"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.stackdata.com/questions/33790">
+    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/33790?site=stackoverflow"/>
+    <dc:title rdf:resource="http://www.stackdata.com/titleHow can I use `scp` to deploy a website&amp;#39;s `.htaccess` file?"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.stackdata.com/questions/21174">
+    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/21174?site=stackoverflow"/>
+    <dc:title rdf:resource="http://www.stackdata.com/titleFOSS tools for Flash development"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.stackdata.com/questions/34673">
+    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/34673?site=stackoverflow"/>
+    <dc:title rdf:resource="http://www.stackdata.com/titleIf you had to pick the best artifact in scrum, what would it be?"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.stackdata.com/questions/38974">
+    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/38974?site=stackoverflow"/>
+    <dc:title rdf:resource="http://www.stackdata.com/titleTool to check Doxygen markup is up to date"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.stackdata.com/questions/32010">
+    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/32010?site=stackoverflow"/>
+    <dc:title rdf:resource="http://www.stackdata.com/titleIs regex case insensitivity slower?"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.stackdata.com/questions/23205">
+    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/23205?site=stackoverflow"/>
+    <dc:title rdf:resource="http://www.stackdata.com/titleBoundary Tests For a Networked App"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.stackdata.com/questions/37832">
+    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/37832?site=stackoverflow"/>
+    <dc:title rdf:resource="http://www.stackdata.com/titleUI and event testing"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.stackdata.com/questions/7652">
+    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/7652?site=stackoverflow"/>
+    <dc:title rdf:resource="http://www.stackdata.com/titleQuerying like Linq when you don&amp;#39;t have Linq"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.stackdata.com/questions/35762">
+    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/35762?site=stackoverflow"/>
+    <dc:title rdf:resource="http://www.stackdata.com/titleLinux GUI development"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.stackdata.com/questions/35722">
+    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/35722?site=stackoverflow"/>
+    <dc:title rdf:resource="http://www.stackdata.com/titleDesktop search utility for pdf,chm and djvu files"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.stackdata.com/questions/20696">
+    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/20696?site=stackoverflow"/>
+    <dc:title rdf:resource="http://www.stackdata.com/titleHow do I declare a list of fixed length in specman?"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.stackdata.com/questions/29995">
+    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/29995?site=stackoverflow"/>
+    <dc:title rdf:resource="http://www.stackdata.com/titleSimple programming practice (Fizz Buzz, Print Primes)"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.stackdata.com/questions/29822">
+    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/29822?site=stackoverflow"/>
+    <dc:title rdf:resource="http://www.stackdata.com/titleGiant NodeManagerLogs from hibernate in weblogic"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.stackdata.com/questions/30861">
+    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/30861?site=stackoverflow"/>
+    <dc:title rdf:resource="http://www.stackdata.com/titleAuthenticating Domain Users with System.DirectoryServices"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.stackdata.com/questions/38824">
+    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/38824?site=stackoverflow"/>
+    <dc:title rdf:resource="http://www.stackdata.com/titleIs Wiki Content Portable?"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.stackdata.com/questions/32537">
+    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/32537?site=stackoverflow"/>
+    <dc:title rdf:resource="http://www.stackdata.com/titleWhat is the best way to use a console when developing?"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.stackdata.com/questions/31192">
+    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/31192?site=stackoverflow"/>
+    <dc:title rdf:resource="http://www.stackdata.com/titleMigrating from ASP Classic to .NET and pain mitigation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.stackdata.com/questions/34345">
+    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/34345?site=stackoverflow"/>
+    <dc:title rdf:resource="http://www.stackdata.com/titleFinding your own number in a box"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.stackdata.com/questions/30712">
+    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/30712?site=stackoverflow"/>
+    <dc:title rdf:resource="http://www.stackdata.com/titleWhat is the proper virtual directory access permission level required for a SOAP web service?"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.stackdata.com/questions/23503">
+    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/23503?site=stackoverflow"/>
+    <dc:title rdf:resource="http://www.stackdata.com/titleCruiseControl.NET and NAnt"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.stackdata.com/questions/34128">
+    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/34128?site=stackoverflow"/>
+    <dc:title rdf:resource="http://www.stackdata.com/titleHow to you pass a variable amount of parmeters to web-service"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.stackdata.com/questions/39125">
+    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/39125?site=stackoverflow"/>
+    <dc:title rdf:resource="http://www.stackdata.com/titleHow can a .net class library be protected so it cant be referenced by other applications?"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.stackdata.com/questions/29067">
+    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/29067?site=stackoverflow"/>
+    <dc:title rdf:resource="http://www.stackdata.com/titleCreating a UserControl Programmaticly within a repeater?"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.stackdata.com/questions/37821">
+    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/37821?site=stackoverflow"/>
+    <dc:title rdf:resource="http://www.stackdata.com/titleViewing event log via a web interface"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.stackdata.com/questions/31711">
+    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/31711?site=stackoverflow"/>
+    <dc:title rdf:resource="http://www.stackdata.com/titleHow to plot a long path with Virtual Earth"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.stackdata.com/questions/33233">
+    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/33233?site=stackoverflow"/>
+    <dc:title rdf:resource="http://www.stackdata.com/titleIntegrating a custom gui framework with the VS designer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.stackdata.com/questions/31303">
+    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/31303?site=stackoverflow"/>
+    <dc:title rdf:resource="http://www.stackdata.com/titleChecklist for Database Schema Upgrades"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.stackdata.com/questions/35256">
+    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/35256?site=stackoverflow"/>
+    <dc:title rdf:resource="http://www.stackdata.com/titleManaging multiple identical databases efficiently?"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.stackdata.com/questions/20782">
+    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/20782?site=stackoverflow"/>
+    <dc:title rdf:resource="http://www.stackdata.com/titleCall Project Server Interface web method from an msi installer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.stackdata.com/questions/25376">
+    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/25376?site=stackoverflow"/>
+    <dc:title rdf:resource="http://www.stackdata.com/titleWhat is a good use of lambda expressions, and how can I learn to use them?"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.stackdata.com/questions/30800">
+    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/30800?site=stackoverflow"/>
+    <dc:title rdf:resource="http://www.stackdata.com/titleHow can I authenticate using client credentials in WCF just once?"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.stackdata.com/questions/36030">
+    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/36030?site=stackoverflow"/>
+    <dc:title rdf:resource="http://www.stackdata.com/titleYaws uses old config file"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.stackdata.com/questions/36296">
+    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/36296?site=stackoverflow"/>
+    <dc:title rdf:resource="http://www.stackdata.com/titleWhat&amp;#39;s the answer to this Microsoft PDC challenge?"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.stackdata.com/questions/24813">
+    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/24813?site=stackoverflow"/>
+    <dc:title rdf:resource="http://www.stackdata.com/titleAutomating MSI Build Process"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.stackdata.com/questions/33990">
+    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/33990?site=stackoverflow"/>
+    <dc:title rdf:resource="http://www.stackdata.com/titleCan&amp;#39;t create a subversion repository with Eclipse 3.4.0, svn 1.5.1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.stackdata.com/questions/34806">
+    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/34806?site=stackoverflow"/>
+    <dc:title rdf:resource="http://www.stackdata.com/titleClass design decision"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.stackdata.com/questions/32643">
+    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/32643?site=stackoverflow"/>
+    <dc:title rdf:resource="http://www.stackdata.com/titleAutomatic image rotation based on a logo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.stackdata.com/questions/32845">
+    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/32845?site=stackoverflow"/>
+    <dc:title rdf:resource="http://www.stackdata.com/titleCreating System Restore Points - Thoughts?"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.stackdata.com/questions/29030">
+    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/29030?site=stackoverflow"/>
+    <dc:title rdf:resource="http://www.stackdata.com/titleSharePoint SPContext.List in a custom application page"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.stackdata.com/questions/24040">
+    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/24040?site=stackoverflow"/>
+    <dc:title rdf:resource="http://www.stackdata.com/titleIs there a site for detailed unit testing samples?"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.stackdata.com/questions/24731">
+    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/24731?site=stackoverflow"/>
+    <dc:title rdf:resource="http://www.stackdata.com/titleDisplaying version of underlying software in footer of web app?"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.stackdata.com/questions/31865">
+    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/31865?site=stackoverflow"/>
+    <dc:title rdf:resource="http://www.stackdata.com/titleGood reasons for not letting the browser launch local applications"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.stackdata.com/questions/35720">
+    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/35720?site=stackoverflow"/>
+    <dc:title rdf:resource="http://www.stackdata.com/titleGetting started with SideShow Devices"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.stackdata.com/questions/35853">
+    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/35853?site=stackoverflow"/>
+    <dc:title rdf:resource="http://www.stackdata.com/titleP/Invoke in Mono"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.stackdata.com/questions/38664">
+    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/38664?site=stackoverflow"/>
+    <dc:title rdf:resource="http://www.stackdata.com/titleCan you modify text files when committing to subversion?"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.stackdata.com/questions/22704">
+    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/22704?site=stackoverflow"/>
+    <dc:title rdf:resource="http://www.stackdata.com/titleWhat strategies have you employed to improve web application performance?"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.stackdata.com/questions/14611">
+    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/14611?site=stackoverflow"/>
+    <dc:title rdf:resource="http://www.stackdata.com/titleEditing User Profile w/ Forms Authentication"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.stackdata.com/questions/38107">
+    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/38107?site=stackoverflow"/>
+    <dc:title rdf:resource="http://www.stackdata.com/titleCross Page Postback doesn&amp;#39;t work for client-side enabled button"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.stackdata.com/questions/37428">
+    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/37428?site=stackoverflow"/>
+    <dc:title rdf:resource="http://www.stackdata.com/titleGet back to basics. How do I get back into C++?"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.stackdata.com/questions/38151">
+    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/38151?site=stackoverflow"/>
+    <dc:title rdf:resource="http://www.stackdata.com/title&amp;lt;asp:hyperlink&amp;gt; after opening target in new window - new window cannot be closed"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.stackdata.com/questions/30781">
+    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/30781?site=stackoverflow"/>
+    <dc:title rdf:resource="http://www.stackdata.com/titleHow do I retrieve data sent to the web server in ASP.NET?"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.stackdata.com/questions/33619">
+    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/33619?site=stackoverflow"/>
+    <dc:title rdf:resource="http://www.stackdata.com/titleConcurrent logins in a web farm"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.stackdata.com/questions/14923">
+    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/14923?site=stackoverflow"/>
+    <dc:title rdf:resource="http://www.stackdata.com/titleCan I generate ASP.NET MVC routes from a Sitemap?"/>
+  </rdf:Description>
+</rdf:RDF>
