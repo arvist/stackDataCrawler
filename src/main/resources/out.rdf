@@ -1,405 +1,2099 @@
-<rdf:RDF
-    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-    xmlns:dc="http://purl.org/dc/elements/1.1/"
-    xmlns:j.0="https://www.w3.org/2002/07/owl#">
-  <rdf:Description rdf:about="http://www.stackdata.com/questions/33495">
-    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/33495?site=stackoverflow"/>
-    <dc:title rdf:resource="http://www.stackdata.com/titleCould you make a case for using Berkeley DB XML"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.stackdata.com/questions/16556">
-    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/16556?site=stackoverflow"/>
-    <dc:title rdf:resource="http://www.stackdata.com/titleVS.NET Application Diagrams"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.stackdata.com/questions/36028">
-    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/36028?site=stackoverflow"/>
-    <dc:title rdf:resource="http://www.stackdata.com/titleHow to assign a method&amp;#39;s output to a textbox value without code behind"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.stackdata.com/questions/33390">
-    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/33390?site=stackoverflow"/>
-    <dc:title rdf:resource="http://www.stackdata.com/titleBest use pattern for a DataContext"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.stackdata.com/questions/30337">
-    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/30337?site=stackoverflow"/>
-    <dc:title rdf:resource="http://www.stackdata.com/titleInstall-base of Java JRE?"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.stackdata.com/questions/28708">
-    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/28708?site=stackoverflow"/>
-    <dc:title rdf:resource="http://www.stackdata.com/titleProcess.StartTime Access Denied"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.stackdata.com/questions/36642">
-    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/36642?site=stackoverflow"/>
-    <dc:title rdf:resource="http://www.stackdata.com/titleListing Items and Displaying Data Inline"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.stackdata.com/questions/3234">
-    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/3234?site=stackoverflow"/>
-    <dc:title rdf:resource="http://www.stackdata.com/titleDisplaying ad content from Respose.WriteFile()/ Response.ContentType"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.stackdata.com/questions/28941">
-    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/28941?site=stackoverflow"/>
-    <dc:title rdf:resource="http://www.stackdata.com/titleBest architecture for handling file system changes?"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.stackdata.com/questions/37593">
-    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/37593?site=stackoverflow"/>
-    <dc:title rdf:resource="http://www.stackdata.com/titleWhere can I get free Vista style developer graphics?"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.stackdata.com/questions/33252">
-    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/33252?site=stackoverflow"/>
-    <dc:title rdf:resource="http://www.stackdata.com/titleGetting files and their version numbers from sharepoint"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.stackdata.com/questions/37731">
-    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/37731?site=stackoverflow"/>
-    <dc:title rdf:resource="http://www.stackdata.com/titleTo use views or not to use views"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.stackdata.com/questions/38654">
-    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/38654?site=stackoverflow"/>
-    <dc:title rdf:resource="http://www.stackdata.com/titleAutomatically floating all fields in a VFP report?"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.stackdata.com/questions/25323">
-    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/25323?site=stackoverflow"/>
-    <dc:title rdf:resource="http://www.stackdata.com/titleWCF - Domain Objects and IExtensibleDataObject"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.stackdata.com/questions/29733">
-    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/29733?site=stackoverflow"/>
-    <dc:title rdf:resource="http://www.stackdata.com/titleTrackback/Pingback libraries for Python/Ruby?"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.stackdata.com/questions/36182">
-    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/36182?site=stackoverflow"/>
-    <dc:title rdf:resource="http://www.stackdata.com/titleHow expensive is ST_GeomFromText"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.stackdata.com/questions/19089">
-    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/19089?site=stackoverflow"/>
-    <dc:title rdf:resource="http://www.stackdata.com/titleHow do I do an Upsert Into Table?"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.stackdata.com/questions/32505">
-    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/32505?site=stackoverflow"/>
-    <dc:title rdf:resource="http://www.stackdata.com/titleXML Parser Validation Report"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.stackdata.com/questions/19744">
-    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/19744?site=stackoverflow"/>
-    <dc:title rdf:resource="http://www.stackdata.com/titleTrigger without a transaction?"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.stackdata.com/questions/28529">
-    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/28529?site=stackoverflow"/>
-    <dc:title rdf:resource="http://www.stackdata.com/titleHow would you handle errors when using jQuery.ajax()?"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.stackdata.com/questions/32596">
-    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/32596?site=stackoverflow"/>
-    <dc:title rdf:resource="http://www.stackdata.com/titleOdd behaviour for rowSpan in Flex"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.stackdata.com/questions/30145">
-    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/30145?site=stackoverflow"/>
-    <dc:title rdf:resource="http://www.stackdata.com/titleEthernet MAC address as activation code for an appliance?"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.stackdata.com/questions/10999">
-    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/10999?site=stackoverflow"/>
-    <dc:title rdf:resource="http://www.stackdata.com/titleMS Team Foundation Server in distributed environments - hints tips tricks needed"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.stackdata.com/questions/30541">
-    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/30541?site=stackoverflow"/>
-    <dc:title rdf:resource="http://www.stackdata.com/titleUsing MVP - How to use Events Properly for Testing"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.stackdata.com/questions/18216">
-    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/18216?site=stackoverflow"/>
-    <dc:title rdf:resource="http://www.stackdata.com/titleQuery a union table with fields as columns"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.stackdata.com/questions/19162">
-    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/19162?site=stackoverflow"/>
-    <dc:title rdf:resource="http://www.stackdata.com/titlePHP Script to populate MySQL tables"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.stackdata.com/questions/24986">
-    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/24986?site=stackoverflow"/>
-    <dc:title rdf:resource="http://www.stackdata.com/titleHow do I profile a Maven Application in Netbeans?"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.stackdata.com/questions/30379">
-    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/30379?site=stackoverflow"/>
-    <dc:title rdf:resource="http://www.stackdata.com/titleHow do I replicate content on a web farm"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.stackdata.com/questions/35709">
-    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/35709?site=stackoverflow"/>
-    <dc:title rdf:resource="http://www.stackdata.com/titleChange Active Sound Card on the Fly"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.stackdata.com/questions/16320">
-    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/16320?site=stackoverflow"/>
-    <dc:title rdf:resource="http://www.stackdata.com/titleShould DB layer members be static or instance?"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.stackdata.com/questions/30775">
-    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/30775?site=stackoverflow"/>
-    <dc:title rdf:resource="http://www.stackdata.com/titleNHibernate and Oracle connect through Windows Authenication"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.stackdata.com/questions/30004">
-    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/30004?site=stackoverflow"/>
-    <dc:title rdf:resource="http://www.stackdata.com/titleCan you use LINQ tools such as SQLMetal with an access database?"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.stackdata.com/questions/31708">
-    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/31708?site=stackoverflow"/>
-    <dc:title rdf:resource="http://www.stackdata.com/titleHow can I convert IEnumerable&amp;lt;T&amp;gt; to List&amp;lt;T&amp;gt; in C#?"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.stackdata.com/questions/31534">
-    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/31534?site=stackoverflow"/>
-    <dc:title rdf:resource="http://www.stackdata.com/titleHas anyone moved to NHibernate 2.0 in a production environment?"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.stackdata.com/questions/22980">
-    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/22980?site=stackoverflow"/>
-    <dc:title rdf:resource="http://www.stackdata.com/titleActs-as-readable Rails plugin Issue"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.stackdata.com/questions/35304">
-    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/35304?site=stackoverflow"/>
-    <dc:title rdf:resource="http://www.stackdata.com/titleFlexUnit component testing patterns: use addAsync or manually initialize?"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.stackdata.com/questions/7287">
-    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/7287?site=stackoverflow"/>
-    <dc:title rdf:resource="http://www.stackdata.com/titleHow do you test/change untested and untestable code?"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.stackdata.com/questions/33751">
-    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/33751?site=stackoverflow"/>
-    <dc:title rdf:resource="http://www.stackdata.com/titleHow do I add a MIME type to .htaccess?"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.stackdata.com/questions/37529">
-    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/37529?site=stackoverflow"/>
-    <dc:title rdf:resource="http://www.stackdata.com/titleSimple audio input API on a Mac?"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.stackdata.com/questions/30940">
-    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/30940?site=stackoverflow"/>
-    <dc:title rdf:resource="http://www.stackdata.com/titleHow to handle error logging"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.stackdata.com/questions/35219">
-    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/35219?site=stackoverflow"/>
-    <dc:title rdf:resource="http://www.stackdata.com/titleOptimizing/Customizing Sharepoint Search Crawling"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.stackdata.com/questions/30148">
-    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/30148?site=stackoverflow"/>
-    <dc:title rdf:resource="http://www.stackdata.com/titleManual steps to upgrade VS.NET solution and target .NET framework?"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.stackdata.com/questions/30653">
-    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/30653?site=stackoverflow"/>
-    <dc:title rdf:resource="http://www.stackdata.com/titleWhat do I need to do to implement an &amp;quot;out of proc&amp;quot; COM server in C#?"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.stackdata.com/questions/38789">
-    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/38789?site=stackoverflow"/>
-    <dc:title rdf:resource="http://www.stackdata.com/titleWeb Service Namespace Dynamic Naming"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.stackdata.com/questions/10661">
-    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/10661?site=stackoverflow"/>
-    <dc:title rdf:resource="http://www.stackdata.com/titleDoes the OutputCacheFilter in the Microsoft MVC Preview 4 actually save on action invocations?"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.stackdata.com/questions/28768">
-    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/28768?site=stackoverflow"/>
-    <dc:title rdf:resource="http://www.stackdata.com/titleSimple Object to Database Product"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.stackdata.com/questions/38158">
-    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/38158?site=stackoverflow"/>
-    <dc:title rdf:resource="http://www.stackdata.com/titleWhat is a good maintainability index using Visual Studio 2008 code analysis?"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.stackdata.com/questions/33790">
-    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/33790?site=stackoverflow"/>
-    <dc:title rdf:resource="http://www.stackdata.com/titleHow can I use `scp` to deploy a website&amp;#39;s `.htaccess` file?"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.stackdata.com/questions/21174">
-    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/21174?site=stackoverflow"/>
-    <dc:title rdf:resource="http://www.stackdata.com/titleFOSS tools for Flash development"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.stackdata.com/questions/34673">
-    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/34673?site=stackoverflow"/>
-    <dc:title rdf:resource="http://www.stackdata.com/titleIf you had to pick the best artifact in scrum, what would it be?"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.stackdata.com/questions/38974">
-    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/38974?site=stackoverflow"/>
-    <dc:title rdf:resource="http://www.stackdata.com/titleTool to check Doxygen markup is up to date"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.stackdata.com/questions/32010">
-    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/32010?site=stackoverflow"/>
-    <dc:title rdf:resource="http://www.stackdata.com/titleIs regex case insensitivity slower?"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.stackdata.com/questions/23205">
-    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/23205?site=stackoverflow"/>
-    <dc:title rdf:resource="http://www.stackdata.com/titleBoundary Tests For a Networked App"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.stackdata.com/questions/37832">
-    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/37832?site=stackoverflow"/>
-    <dc:title rdf:resource="http://www.stackdata.com/titleUI and event testing"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.stackdata.com/questions/7652">
-    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/7652?site=stackoverflow"/>
-    <dc:title rdf:resource="http://www.stackdata.com/titleQuerying like Linq when you don&amp;#39;t have Linq"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.stackdata.com/questions/35762">
-    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/35762?site=stackoverflow"/>
-    <dc:title rdf:resource="http://www.stackdata.com/titleLinux GUI development"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.stackdata.com/questions/35722">
-    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/35722?site=stackoverflow"/>
-    <dc:title rdf:resource="http://www.stackdata.com/titleDesktop search utility for pdf,chm and djvu files"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.stackdata.com/questions/20696">
-    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/20696?site=stackoverflow"/>
-    <dc:title rdf:resource="http://www.stackdata.com/titleHow do I declare a list of fixed length in specman?"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.stackdata.com/questions/29995">
-    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/29995?site=stackoverflow"/>
-    <dc:title rdf:resource="http://www.stackdata.com/titleSimple programming practice (Fizz Buzz, Print Primes)"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.stackdata.com/questions/29822">
-    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/29822?site=stackoverflow"/>
-    <dc:title rdf:resource="http://www.stackdata.com/titleGiant NodeManagerLogs from hibernate in weblogic"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.stackdata.com/questions/30861">
-    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/30861?site=stackoverflow"/>
-    <dc:title rdf:resource="http://www.stackdata.com/titleAuthenticating Domain Users with System.DirectoryServices"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.stackdata.com/questions/38824">
-    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/38824?site=stackoverflow"/>
-    <dc:title rdf:resource="http://www.stackdata.com/titleIs Wiki Content Portable?"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.stackdata.com/questions/32537">
-    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/32537?site=stackoverflow"/>
-    <dc:title rdf:resource="http://www.stackdata.com/titleWhat is the best way to use a console when developing?"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.stackdata.com/questions/31192">
-    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/31192?site=stackoverflow"/>
-    <dc:title rdf:resource="http://www.stackdata.com/titleMigrating from ASP Classic to .NET and pain mitigation"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.stackdata.com/questions/34345">
-    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/34345?site=stackoverflow"/>
-    <dc:title rdf:resource="http://www.stackdata.com/titleFinding your own number in a box"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.stackdata.com/questions/30712">
-    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/30712?site=stackoverflow"/>
-    <dc:title rdf:resource="http://www.stackdata.com/titleWhat is the proper virtual directory access permission level required for a SOAP web service?"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.stackdata.com/questions/23503">
-    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/23503?site=stackoverflow"/>
-    <dc:title rdf:resource="http://www.stackdata.com/titleCruiseControl.NET and NAnt"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.stackdata.com/questions/34128">
-    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/34128?site=stackoverflow"/>
-    <dc:title rdf:resource="http://www.stackdata.com/titleHow to you pass a variable amount of parmeters to web-service"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.stackdata.com/questions/39125">
-    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/39125?site=stackoverflow"/>
-    <dc:title rdf:resource="http://www.stackdata.com/titleHow can a .net class library be protected so it cant be referenced by other applications?"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.stackdata.com/questions/29067">
-    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/29067?site=stackoverflow"/>
-    <dc:title rdf:resource="http://www.stackdata.com/titleCreating a UserControl Programmaticly within a repeater?"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.stackdata.com/questions/37821">
-    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/37821?site=stackoverflow"/>
-    <dc:title rdf:resource="http://www.stackdata.com/titleViewing event log via a web interface"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.stackdata.com/questions/31711">
-    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/31711?site=stackoverflow"/>
-    <dc:title rdf:resource="http://www.stackdata.com/titleHow to plot a long path with Virtual Earth"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.stackdata.com/questions/33233">
-    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/33233?site=stackoverflow"/>
-    <dc:title rdf:resource="http://www.stackdata.com/titleIntegrating a custom gui framework with the VS designer"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.stackdata.com/questions/31303">
-    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/31303?site=stackoverflow"/>
-    <dc:title rdf:resource="http://www.stackdata.com/titleChecklist for Database Schema Upgrades"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.stackdata.com/questions/35256">
-    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/35256?site=stackoverflow"/>
-    <dc:title rdf:resource="http://www.stackdata.com/titleManaging multiple identical databases efficiently?"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.stackdata.com/questions/20782">
-    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/20782?site=stackoverflow"/>
-    <dc:title rdf:resource="http://www.stackdata.com/titleCall Project Server Interface web method from an msi installer"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.stackdata.com/questions/25376">
-    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/25376?site=stackoverflow"/>
-    <dc:title rdf:resource="http://www.stackdata.com/titleWhat is a good use of lambda expressions, and how can I learn to use them?"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.stackdata.com/questions/30800">
-    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/30800?site=stackoverflow"/>
-    <dc:title rdf:resource="http://www.stackdata.com/titleHow can I authenticate using client credentials in WCF just once?"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.stackdata.com/questions/36030">
-    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/36030?site=stackoverflow"/>
-    <dc:title rdf:resource="http://www.stackdata.com/titleYaws uses old config file"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.stackdata.com/questions/36296">
-    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/36296?site=stackoverflow"/>
-    <dc:title rdf:resource="http://www.stackdata.com/titleWhat&amp;#39;s the answer to this Microsoft PDC challenge?"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.stackdata.com/questions/24813">
-    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/24813?site=stackoverflow"/>
-    <dc:title rdf:resource="http://www.stackdata.com/titleAutomating MSI Build Process"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.stackdata.com/questions/33990">
-    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/33990?site=stackoverflow"/>
-    <dc:title rdf:resource="http://www.stackdata.com/titleCan&amp;#39;t create a subversion repository with Eclipse 3.4.0, svn 1.5.1"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.stackdata.com/questions/34806">
-    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/34806?site=stackoverflow"/>
-    <dc:title rdf:resource="http://www.stackdata.com/titleClass design decision"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.stackdata.com/questions/32643">
-    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/32643?site=stackoverflow"/>
-    <dc:title rdf:resource="http://www.stackdata.com/titleAutomatic image rotation based on a logo"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.stackdata.com/questions/32845">
-    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/32845?site=stackoverflow"/>
-    <dc:title rdf:resource="http://www.stackdata.com/titleCreating System Restore Points - Thoughts?"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.stackdata.com/questions/29030">
-    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/29030?site=stackoverflow"/>
-    <dc:title rdf:resource="http://www.stackdata.com/titleSharePoint SPContext.List in a custom application page"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.stackdata.com/questions/24040">
-    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/24040?site=stackoverflow"/>
-    <dc:title rdf:resource="http://www.stackdata.com/titleIs there a site for detailed unit testing samples?"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.stackdata.com/questions/24731">
-    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/24731?site=stackoverflow"/>
-    <dc:title rdf:resource="http://www.stackdata.com/titleDisplaying version of underlying software in footer of web app?"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.stackdata.com/questions/31865">
-    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/31865?site=stackoverflow"/>
-    <dc:title rdf:resource="http://www.stackdata.com/titleGood reasons for not letting the browser launch local applications"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.stackdata.com/questions/35720">
-    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/35720?site=stackoverflow"/>
-    <dc:title rdf:resource="http://www.stackdata.com/titleGetting started with SideShow Devices"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.stackdata.com/questions/35853">
-    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/35853?site=stackoverflow"/>
-    <dc:title rdf:resource="http://www.stackdata.com/titleP/Invoke in Mono"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.stackdata.com/questions/38664">
-    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/38664?site=stackoverflow"/>
-    <dc:title rdf:resource="http://www.stackdata.com/titleCan you modify text files when committing to subversion?"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.stackdata.com/questions/22704">
-    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/22704?site=stackoverflow"/>
-    <dc:title rdf:resource="http://www.stackdata.com/titleWhat strategies have you employed to improve web application performance?"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.stackdata.com/questions/14611">
-    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/14611?site=stackoverflow"/>
-    <dc:title rdf:resource="http://www.stackdata.com/titleEditing User Profile w/ Forms Authentication"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.stackdata.com/questions/38107">
-    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/38107?site=stackoverflow"/>
-    <dc:title rdf:resource="http://www.stackdata.com/titleCross Page Postback doesn&amp;#39;t work for client-side enabled button"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.stackdata.com/questions/37428">
-    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/37428?site=stackoverflow"/>
-    <dc:title rdf:resource="http://www.stackdata.com/titleGet back to basics. How do I get back into C++?"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.stackdata.com/questions/38151">
-    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/38151?site=stackoverflow"/>
-    <dc:title rdf:resource="http://www.stackdata.com/title&amp;lt;asp:hyperlink&amp;gt; after opening target in new window - new window cannot be closed"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.stackdata.com/questions/30781">
-    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/30781?site=stackoverflow"/>
-    <dc:title rdf:resource="http://www.stackdata.com/titleHow do I retrieve data sent to the web server in ASP.NET?"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.stackdata.com/questions/33619">
-    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/33619?site=stackoverflow"/>
-    <dc:title rdf:resource="http://www.stackdata.com/titleConcurrent logins in a web farm"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.stackdata.com/questions/14923">
-    <j.0:sameAs rdf:resource="https://api.stackexchange.com/2.2//questions/14923?site=stackoverflow"/>
-    <dc:title rdf:resource="http://www.stackdata.com/titleCan I generate ASP.NET MVC routes from a Sitemap?"/>
-  </rdf:Description>
-</rdf:RDF>
+<http://www.stackdata.com/questions/24731>
+        <http://purl.org/dc/elements/1.1/title/>
+                <http://www.stackdata.com/title/Displaying version of underlying software in footer of web app?> ;
+        <http://www.stackdata.com/answer-count/>
+                <http://www.stackdata.com/answer-count/3> ;
+        <http://www.stackdata.com/answers/>
+                <http://www.stackoverflow.com/questions/24731/answers#24743> ;
+        <http://www.stackdata.com/created-date/>
+                "2008-08-243:38:0"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+        <http://www.stackdata.com/questionId/>
+                <http://www.stackdata.com/questionId/24731> ;
+        <http://www.stackdata.com/score/>
+                <http://www.stackdata.com/score/1> ;
+        <http://www.stackdata.com/tags/>
+                <http://www.stackdata.com/tags/web-applications> , <http://www.stackdata.com/tags/assemblies> , <http://www.stackdata.com/tags/versioning> ;
+        <http://www.stackdata.com/views/>
+                <http://www.stackdata.com/views/373> ;
+        <https://www.w3.org/2002/07/owl#sameAs>
+                <https://api.stackexchange.com/2.2/questions/24731?site=stackoverflow> ;
+        <isAnswered>  true .
+
+<http://www.stackdata.com/questions/24813>
+        <http://purl.org/dc/elements/1.1/title/>
+                <http://www.stackdata.com/title/Automating MSI Build Process> ;
+        <http://www.stackdata.com/answer-count/>
+                <http://www.stackdata.com/answer-count/3> ;
+        <http://www.stackdata.com/answers/>
+                <http://www.stackoverflow.com/questions/24813/answers#24825> ;
+        <http://www.stackdata.com/created-date/>
+                "2008-08-245:42:7"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+        <http://www.stackdata.com/questionId/>
+                <http://www.stackdata.com/questionId/24813> ;
+        <http://www.stackdata.com/score/>
+                <http://www.stackdata.com/score/10> ;
+        <http://www.stackdata.com/tags/>
+                <http://www.stackdata.com/tags/build-process> , <http://www.stackdata.com/tags/build-automation> ;
+        <http://www.stackdata.com/views/>
+                <http://www.stackdata.com/views/1932> ;
+        <https://www.w3.org/2002/07/owl#sameAs>
+                <https://api.stackexchange.com/2.2/questions/24813?site=stackoverflow> ;
+        <isAnswered>  true .
+
+<http://www.stackdata.com/questions/24986>
+        <http://purl.org/dc/elements/1.1/title/>
+                <http://www.stackdata.com/title/How do I profile a Maven Application in Netbeans?> ;
+        <http://www.stackdata.com/answer-count/>
+                <http://www.stackdata.com/answer-count/1> ;
+        <http://www.stackdata.com/answers/>
+                <http://www.stackoverflow.com/questions/24986/answers#24987> ;
+        <http://www.stackdata.com/created-date/>
+                "2008-08-2414:50:8"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+        <http://www.stackdata.com/questionId/>
+                <http://www.stackdata.com/questionId/24986> ;
+        <http://www.stackdata.com/score/>
+                <http://www.stackdata.com/score/1> ;
+        <http://www.stackdata.com/tags/>
+                <http://www.stackdata.com/tags/maven-2> , <http://www.stackdata.com/tags/netbeans> , <http://www.stackdata.com/tags/profiling> , <http://www.stackdata.com/tags/profiler> ;
+        <http://www.stackdata.com/views/>
+                <http://www.stackdata.com/views/2153> ;
+        <https://www.w3.org/2002/07/owl#sameAs>
+                <https://api.stackexchange.com/2.2/questions/24986?site=stackoverflow> ;
+        <isAnswered>  true .
+
+<http://www.stackdata.com/questions/22980>
+        <http://purl.org/dc/elements/1.1/title/>
+                <http://www.stackdata.com/title/Acts-as-readable Rails plugin Issue> ;
+        <http://www.stackdata.com/answer-count/>
+                <http://www.stackdata.com/answer-count/1> ;
+        <http://www.stackdata.com/answers/>
+                <http://www.stackoverflow.com/questions/22980/answers#23137> ;
+        <http://www.stackdata.com/created-date/>
+                "2008-08-2220:37:51"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+        <http://www.stackdata.com/questionId/>
+                <http://www.stackdata.com/questionId/22980> ;
+        <http://www.stackdata.com/score/>
+                <http://www.stackdata.com/score/7> ;
+        <http://www.stackdata.com/tags/>
+                <http://www.stackdata.com/tags/ruby-on-rails> , <http://www.stackdata.com/tags/ruby> , <http://www.stackdata.com/tags/plugins> ;
+        <http://www.stackdata.com/views/>
+                <http://www.stackdata.com/views/518> ;
+        <https://www.w3.org/2002/07/owl#sameAs>
+                <https://api.stackexchange.com/2.2/questions/22980?site=stackoverflow> ;
+        <isAnswered>  true .
+
+<http://www.stackdata.com/questions/21174>
+        <http://purl.org/dc/elements/1.1/title/>
+                <http://www.stackdata.com/title/FOSS tools for Flash development> ;
+        <http://www.stackdata.com/answer-count/>
+                <http://www.stackdata.com/answer-count/3> ;
+        <http://www.stackdata.com/answers/>
+                <http://www.stackoverflow.com/questions/21174/answers#25196> ;
+        <http://www.stackdata.com/created-date/>
+                "2008-08-2224:1:52"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+        <http://www.stackdata.com/questionId/>
+                <http://www.stackdata.com/questionId/21174> ;
+        <http://www.stackdata.com/score/>
+                <http://www.stackdata.com/score/11> ;
+        <http://www.stackdata.com/tags/>
+                <http://www.stackdata.com/tags/flash> , <http://www.stackdata.com/tags/open-source> , <http://www.stackdata.com/tags/actionscript> ;
+        <http://www.stackdata.com/views/>
+                <http://www.stackdata.com/views/1302> ;
+        <https://www.w3.org/2002/07/owl#sameAs>
+                <https://api.stackexchange.com/2.2/questions/21174?site=stackoverflow> ;
+        <isAnswered>  true .
+
+<http://www.stackdata.com/questions/28529>
+        <http://purl.org/dc/elements/1.1/title/>
+                <http://www.stackdata.com/title/How would you handle errors when using jQuery.ajax()?> ;
+        <http://www.stackdata.com/answer-count/>
+                <http://www.stackdata.com/answer-count/3> ;
+        <http://www.stackdata.com/answers/>
+                <http://www.stackoverflow.com/questions/28529/answers#28537> ;
+        <http://www.stackdata.com/created-date/>
+                "2008-08-2619:26:45"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+        <http://www.stackdata.com/questionId/>
+                <http://www.stackdata.com/questionId/28529> ;
+        <http://www.stackdata.com/score/>
+                <http://www.stackdata.com/score/25> ;
+        <http://www.stackdata.com/tags/>
+                <http://www.stackdata.com/tags/asp.net> , <http://www.stackdata.com/tags/jquery> , <http://www.stackdata.com/tags/ajax> ;
+        <http://www.stackdata.com/views/>
+                <http://www.stackdata.com/views/6003> ;
+        <https://www.w3.org/2002/07/owl#sameAs>
+                <https://api.stackexchange.com/2.2/questions/28529?site=stackoverflow> ;
+        <isAnswered>  true .
+
+<http://www.stackdata.com/questions/24040>
+        <http://purl.org/dc/elements/1.1/title/>
+                <http://www.stackdata.com/title/Is there a site for detailed unit testing samples?> ;
+        <http://www.stackdata.com/answer-count/>
+                <http://www.stackdata.com/answer-count/3> ;
+        <http://www.stackdata.com/answers/>
+                <http://www.stackoverflow.com/questions/24040/answers#24047> ;
+        <http://www.stackdata.com/created-date/>
+                "2008-08-239:33:8"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+        <http://www.stackdata.com/questionId/>
+                <http://www.stackdata.com/questionId/24040> ;
+        <http://www.stackdata.com/score/>
+                <http://www.stackdata.com/score/7> ;
+        <http://www.stackdata.com/tags/>
+                <http://www.stackdata.com/tags/unit-testing> , <http://www.stackdata.com/tags/testing> ;
+        <http://www.stackdata.com/views/>
+                <http://www.stackdata.com/views/403> ;
+        <https://www.w3.org/2002/07/owl#sameAs>
+                <https://api.stackexchange.com/2.2/questions/24040?site=stackoverflow> ;
+        <isAnswered>  true .
+
+<http://www.stackdata.com/questions/14611>
+        <http://purl.org/dc/elements/1.1/title/>
+                <http://www.stackdata.com/title/Editing User Profile w/ Forms Authentication> ;
+        <http://www.stackdata.com/answer-count/>
+                <http://www.stackdata.com/answer-count/1> ;
+        <http://www.stackdata.com/answers/>
+                <http://www.stackoverflow.com/questions/14611/answers#14676> ;
+        <http://www.stackdata.com/created-date/>
+                "2008-08-1816:40:33"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+        <http://www.stackdata.com/questionId/>
+                <http://www.stackdata.com/questionId/14611> ;
+        <http://www.stackdata.com/score/>
+                <http://www.stackdata.com/score/2> ;
+        <http://www.stackdata.com/tags/>
+                <http://www.stackdata.com/tags/sharepoint> , <http://www.stackdata.com/tags/moss> , <http://www.stackdata.com/tags/wss> ;
+        <http://www.stackdata.com/views/>
+                <http://www.stackdata.com/views/862> ;
+        <https://www.w3.org/2002/07/owl#sameAs>
+                <https://api.stackexchange.com/2.2/questions/14611?site=stackoverflow> ;
+        <isAnswered>  true .
+
+<http://www.stackdata.com/questions/30145>
+        <http://purl.org/dc/elements/1.1/title/>
+                <http://www.stackdata.com/title/Ethernet MAC address as activation code for an appliance?> ;
+        <http://www.stackdata.com/answer-count/>
+                <http://www.stackdata.com/answer-count/4> ;
+        <http://www.stackdata.com/answers/>
+                <http://www.stackoverflow.com/questions/30145/answers#30223> ;
+        <http://www.stackdata.com/created-date/>
+                "2008-08-2716:43:8"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+        <http://www.stackdata.com/questionId/>
+                <http://www.stackdata.com/questionId/30145> ;
+        <http://www.stackdata.com/score/>
+                <http://www.stackdata.com/score/3> ;
+        <http://www.stackdata.com/tags/>
+                <http://www.stackdata.com/tags/licensing> , <http://www.stackdata.com/tags/ethernet> , <http://www.stackdata.com/tags/drm> , <http://www.stackdata.com/tags/activation> ;
+        <http://www.stackdata.com/views/>
+                <http://www.stackdata.com/views/1716> ;
+        <https://www.w3.org/2002/07/owl#sameAs>
+                <https://api.stackexchange.com/2.2/questions/30145?site=stackoverflow> ;
+        <isAnswered>  true .
+
+<http://www.stackdata.com/questions/30337>
+        <http://purl.org/dc/elements/1.1/title/>
+                <http://www.stackdata.com/title/Install-base of Java JRE?> ;
+        <http://www.stackdata.com/answer-count/>
+                <http://www.stackdata.com/answer-count/2> ;
+        <http://www.stackdata.com/answers/>
+                <http://www.stackoverflow.com/questions/30337/answers#-1> ;
+        <http://www.stackdata.com/created-date/>
+                "2008-08-2717:47:46"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+        <http://www.stackdata.com/questionId/>
+                <http://www.stackdata.com/questionId/30337> ;
+        <http://www.stackdata.com/score/>
+                <http://www.stackdata.com/score/7> ;
+        <http://www.stackdata.com/tags/>
+                <http://www.stackdata.com/tags/java> , <http://www.stackdata.com/tags/deployment> ;
+        <http://www.stackdata.com/views/>
+                <http://www.stackdata.com/views/1252> ;
+        <https://www.w3.org/2002/07/owl#sameAs>
+                <https://api.stackexchange.com/2.2/questions/30337?site=stackoverflow> ;
+        <isAnswered>  true .
+
+<http://www.stackdata.com/questions/30541>
+        <http://purl.org/dc/elements/1.1/title/>
+                <http://www.stackdata.com/title/Using MVP - How to use Events Properly for Testing> ;
+        <http://www.stackdata.com/answer-count/>
+                <http://www.stackdata.com/answer-count/1> ;
+        <http://www.stackdata.com/answers/>
+                <http://www.stackoverflow.com/questions/30541/answers#30556> ;
+        <http://www.stackdata.com/created-date/>
+                "2008-08-2719:2:23"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+        <http://www.stackdata.com/questionId/>
+                <http://www.stackdata.com/questionId/30541> ;
+        <http://www.stackdata.com/score/>
+                <http://www.stackdata.com/score/0> ;
+        <http://www.stackdata.com/tags/>
+                <http://www.stackdata.com/tags/asp.net> , <http://www.stackdata.com/tags/design-patterns> , <http://www.stackdata.com/tags/mvp> ;
+        <http://www.stackdata.com/views/>
+                <http://www.stackdata.com/views/469> ;
+        <https://www.w3.org/2002/07/owl#sameAs>
+                <https://api.stackexchange.com/2.2/questions/30541?site=stackoverflow> ;
+        <isAnswered>  true .
+
+<http://www.stackdata.com/questions/22704>
+        <http://purl.org/dc/elements/1.1/title/>
+                <http://www.stackdata.com/title/What strategies have you employed to improve web application performance?> ;
+        <http://www.stackdata.com/answer-count/>
+                <http://www.stackdata.com/answer-count/6> ;
+        <http://www.stackdata.com/answers/>
+                <http://www.stackoverflow.com/questions/22704/answers#22722> ;
+        <http://www.stackdata.com/created-date/>
+                "2008-08-2218:48:44"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+        <http://www.stackdata.com/questionId/>
+                <http://www.stackdata.com/questionId/22704> ;
+        <http://www.stackdata.com/score/>
+                <http://www.stackdata.com/score/2> ;
+        <http://www.stackdata.com/tags/>
+                <http://www.stackdata.com/tags/web-applications> , <http://www.stackdata.com/tags/performance> , <http://www.stackdata.com/tags/oracle> ;
+        <http://www.stackdata.com/views/>
+                <http://www.stackdata.com/views/478> ;
+        <https://www.w3.org/2002/07/owl#sameAs>
+                <https://api.stackexchange.com/2.2/questions/22704?site=stackoverflow> ;
+        <isAnswered>  true .
+
+<http://www.stackdata.com/questions/30148>
+        <http://purl.org/dc/elements/1.1/title/>
+                <http://www.stackdata.com/title/Manual steps to upgrade VS.NET solution and target .NET framework?> ;
+        <http://www.stackdata.com/answer-count/>
+                <http://www.stackdata.com/answer-count/3> ;
+        <http://www.stackdata.com/answers/>
+                <http://www.stackoverflow.com/questions/30148/answers#30169> ;
+        <http://www.stackdata.com/created-date/>
+                "2008-08-2716:46:18"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+        <http://www.stackdata.com/questionId/>
+                <http://www.stackdata.com/questionId/30148> ;
+        <http://www.stackdata.com/score/>
+                <http://www.stackdata.com/score/1> ;
+        <http://www.stackdata.com/tags/>
+                <http://www.stackdata.com/tags/.net> , <http://www.stackdata.com/tags/visual-studio> ;
+        <http://www.stackdata.com/views/>
+                <http://www.stackdata.com/views/971> ;
+        <https://www.w3.org/2002/07/owl#sameAs>
+                <https://api.stackexchange.com/2.2/questions/30148?site=stackoverflow> ;
+        <isAnswered>  true .
+
+<http://www.stackdata.com/questions/29030>
+        <http://purl.org/dc/elements/1.1/title/>
+                <http://www.stackdata.com/title/SharePoint SPContext.List in a custom application page> ;
+        <http://www.stackdata.com/answer-count/>
+                <http://www.stackdata.com/answer-count/4> ;
+        <http://www.stackdata.com/answers/>
+                <http://www.stackoverflow.com/questions/29030/answers#30691> ;
+        <http://www.stackdata.com/created-date/>
+                "2008-08-2724:47:22"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+        <http://www.stackdata.com/questionId/>
+                <http://www.stackdata.com/questionId/29030> ;
+        <http://www.stackdata.com/score/>
+                <http://www.stackdata.com/score/1> ;
+        <http://www.stackdata.com/tags/>
+                <http://www.stackdata.com/tags/sharepoint> , <http://www.stackdata.com/tags/spcontext> , <http://www.stackdata.com/tags/applicationpage> ;
+        <http://www.stackdata.com/views/>
+                <http://www.stackdata.com/views/3527> ;
+        <https://www.w3.org/2002/07/owl#sameAs>
+                <https://api.stackexchange.com/2.2/questions/29030?site=stackoverflow> ;
+        <isAnswered>  true .
+
+<http://www.stackdata.com/questions/30712>
+        <http://purl.org/dc/elements/1.1/title/>
+                <http://www.stackdata.com/title/What is the proper virtual directory access permission level required for a SOAP web service?> ;
+        <http://www.stackdata.com/answer-count/>
+                <http://www.stackdata.com/answer-count/2> ;
+        <http://www.stackdata.com/answers/>
+                <http://www.stackoverflow.com/questions/30712/answers#30874> ;
+        <http://www.stackdata.com/created-date/>
+                "2008-08-2720:48:21"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+        <http://www.stackdata.com/questionId/>
+                <http://www.stackdata.com/questionId/30712> ;
+        <http://www.stackdata.com/score/>
+                <http://www.stackdata.com/score/4> ;
+        <http://www.stackdata.com/tags/>
+                <http://www.stackdata.com/tags/web-services> , <http://www.stackdata.com/tags/soap> , <http://www.stackdata.com/tags/file-permissions> ;
+        <http://www.stackdata.com/views/>
+                <http://www.stackdata.com/views/1158> ;
+        <https://www.w3.org/2002/07/owl#sameAs>
+                <https://api.stackexchange.com/2.2/questions/30712?site=stackoverflow> ;
+        <isAnswered>  true .
+
+<http://www.stackdata.com/questions/30781>
+        <http://purl.org/dc/elements/1.1/title/>
+                <http://www.stackdata.com/title/How do I retrieve data sent to the web server in ASP.NET?> ;
+        <http://www.stackdata.com/answer-count/>
+                <http://www.stackdata.com/answer-count/3> ;
+        <http://www.stackdata.com/answers/>
+                <http://www.stackoverflow.com/questions/30781/answers#30792> ;
+        <http://www.stackdata.com/created-date/>
+                "2008-08-2721:16:37"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+        <http://www.stackdata.com/questionId/>
+                <http://www.stackdata.com/questionId/30781> ;
+        <http://www.stackdata.com/score/>
+                <http://www.stackdata.com/score/1> ;
+        <http://www.stackdata.com/tags/>
+                <http://www.stackdata.com/tags/asp.net> ;
+        <http://www.stackdata.com/views/>
+                <http://www.stackdata.com/views/125> ;
+        <https://www.w3.org/2002/07/owl#sameAs>
+                <https://api.stackexchange.com/2.2/questions/30781?site=stackoverflow> ;
+        <isAnswered>  true .
+
+<http://www.stackdata.com/questions/30940>
+        <http://purl.org/dc/elements/1.1/title/>
+                <http://www.stackdata.com/title/How to handle error logging> ;
+        <http://www.stackdata.com/answer-count/>
+                <http://www.stackdata.com/answer-count/3> ;
+        <http://www.stackdata.com/answers/>
+                <http://www.stackoverflow.com/questions/30940/answers#30970> ;
+        <http://www.stackdata.com/created-date/>
+                "2008-08-2722:14:29"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+        <http://www.stackdata.com/questionId/>
+                <http://www.stackdata.com/questionId/30940> ;
+        <http://www.stackdata.com/score/>
+                <http://www.stackdata.com/score/2> ;
+        <http://www.stackdata.com/tags/>
+                <http://www.stackdata.com/tags/php> , <http://www.stackdata.com/tags/error-logging> ;
+        <http://www.stackdata.com/views/>
+                <http://www.stackdata.com/views/773> ;
+        <https://www.w3.org/2002/07/owl#sameAs>
+                <https://api.stackexchange.com/2.2/questions/30940?site=stackoverflow> ;
+        <isAnswered>  true .
+
+<http://www.stackdata.com/questions/7652>
+        <http://purl.org/dc/elements/1.1/title/>
+                <http://www.stackdata.com/title/Querying like Linq when you don&#39;t have Linq> ;
+        <http://www.stackdata.com/answer-count/>
+                <http://www.stackdata.com/answer-count/7> ;
+        <http://www.stackdata.com/answers/>
+                <http://www.stackoverflow.com/questions/7652/answers#7710> ;
+        <http://www.stackdata.com/created-date/>
+                "2008-08-1113:4:50"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+        <http://www.stackdata.com/questionId/>
+                <http://www.stackdata.com/questionId/7652> ;
+        <http://www.stackdata.com/score/>
+                <http://www.stackdata.com/score/2> ;
+        <http://www.stackdata.com/tags/>
+                <http://www.stackdata.com/tags/database> , <http://www.stackdata.com/tags/linq> , <http://www.stackdata.com/tags/orm> ;
+        <http://www.stackdata.com/views/>
+                <http://www.stackdata.com/views/916> ;
+        <https://www.w3.org/2002/07/owl#sameAs>
+                <https://api.stackexchange.com/2.2/questions/7652?site=stackoverflow> ;
+        <isAnswered>  true .
+
+<http://www.stackdata.com/questions/25376>
+        <http://purl.org/dc/elements/1.1/title/>
+                <http://www.stackdata.com/title/What is a good use of lambda expressions, and how can I learn to use them?> ;
+        <http://www.stackdata.com/answer-count/>
+                <http://www.stackdata.com/answer-count/4> ;
+        <http://www.stackdata.com/answers/>
+                <http://www.stackoverflow.com/questions/25376/answers#25412> ;
+        <http://www.stackdata.com/created-date/>
+                "2008-08-2524:53:16"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+        <http://www.stackdata.com/questionId/>
+                <http://www.stackdata.com/questionId/25376> ;
+        <http://www.stackdata.com/score/>
+                <http://www.stackdata.com/score/17> ;
+        <http://www.stackdata.com/tags/>
+                <http://www.stackdata.com/tags/c#> , <http://www.stackdata.com/tags/lambda> ;
+        <http://www.stackdata.com/views/>
+                <http://www.stackdata.com/views/2672> ;
+        <https://www.w3.org/2002/07/owl#sameAs>
+                <https://api.stackexchange.com/2.2/questions/25376?site=stackoverflow> ;
+        <isAnswered>  true .
+
+<http://www.stackdata.com/questions/30775>
+        <http://purl.org/dc/elements/1.1/title/>
+                <http://www.stackdata.com/title/NHibernate and Oracle connect through Windows Authenication> ;
+        <http://www.stackdata.com/answer-count/>
+                <http://www.stackdata.com/answer-count/1> ;
+        <http://www.stackdata.com/answers/>
+                <http://www.stackoverflow.com/questions/30775/answers#31368> ;
+        <http://www.stackdata.com/created-date/>
+                "2008-08-2721:15:39"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+        <http://www.stackdata.com/questionId/>
+                <http://www.stackdata.com/questionId/30775> ;
+        <http://www.stackdata.com/score/>
+                <http://www.stackdata.com/score/4> ;
+        <http://www.stackdata.com/tags/>
+                <http://www.stackdata.com/tags/oracle> , <http://www.stackdata.com/tags/windows> , <http://www.stackdata.com/tags/nhibernate> ;
+        <http://www.stackdata.com/views/>
+                <http://www.stackdata.com/views/505> ;
+        <https://www.w3.org/2002/07/owl#sameAs>
+                <https://api.stackexchange.com/2.2/questions/30775?site=stackoverflow> ;
+        <isAnswered>  true .
+
+<http://www.stackdata.com/questions/28941>
+        <http://purl.org/dc/elements/1.1/title/>
+                <http://www.stackdata.com/title/Best architecture for handling file system changes?> ;
+        <http://www.stackdata.com/answer-count/>
+                <http://www.stackdata.com/answer-count/2> ;
+        <http://www.stackdata.com/answers/>
+                <http://www.stackoverflow.com/questions/28941/answers#28955> ;
+        <http://www.stackdata.com/created-date/>
+                "2008-08-2622:42:47"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+        <http://www.stackdata.com/questionId/>
+                <http://www.stackdata.com/questionId/28941> ;
+        <http://www.stackdata.com/score/>
+                <http://www.stackdata.com/score/1> ;
+        <http://www.stackdata.com/tags/>
+                <http://www.stackdata.com/tags/.net> , <http://www.stackdata.com/tags/architecture> , <http://www.stackdata.com/tags/concurrency> , <http://www.stackdata.com/tags/filesystemwatcher> ;
+        <http://www.stackdata.com/views/>
+                <http://www.stackdata.com/views/480> ;
+        <https://www.w3.org/2002/07/owl#sameAs>
+                <https://api.stackexchange.com/2.2/questions/28941?site=stackoverflow> ;
+        <isAnswered>  true .
+
+<http://www.stackdata.com/questions/10661>
+        <http://purl.org/dc/elements/1.1/title/>
+                <http://www.stackdata.com/title/Does the OutputCacheFilter in the Microsoft MVC Preview 4 actually save on action invocations?> ;
+        <http://www.stackdata.com/answer-count/>
+                <http://www.stackdata.com/answer-count/2> ;
+        <http://www.stackdata.com/answers/>
+                <http://www.stackoverflow.com/questions/10661/answers#11290> ;
+        <http://www.stackdata.com/created-date/>
+                "2008-08-147:16:18"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+        <http://www.stackdata.com/questionId/>
+                <http://www.stackdata.com/questionId/10661> ;
+        <http://www.stackdata.com/score/>
+                <http://www.stackdata.com/score/6> ;
+        <http://www.stackdata.com/tags/>
+                <http://www.stackdata.com/tags/asp.net> , <http://www.stackdata.com/tags/c#> , <http://www.stackdata.com/tags/asp.net-mvc> , <http://www.stackdata.com/tags/outputcache> ;
+        <http://www.stackdata.com/views/>
+                <http://www.stackdata.com/views/275> ;
+        <https://www.w3.org/2002/07/owl#sameAs>
+                <https://api.stackexchange.com/2.2/questions/10661?site=stackoverflow> ;
+        <isAnswered>  true .
+
+<http://www.stackdata.com/questions/31192>
+        <http://purl.org/dc/elements/1.1/title/>
+                <http://www.stackdata.com/title/Migrating from ASP Classic to .NET and pain mitigation> ;
+        <http://www.stackdata.com/answer-count/>
+                <http://www.stackdata.com/answer-count/8> ;
+        <http://www.stackdata.com/answers/>
+                <http://www.stackoverflow.com/questions/31192/answers#31217> ;
+        <http://www.stackdata.com/created-date/>
+                "2008-08-2723:32:18"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+        <http://www.stackdata.com/questionId/>
+                <http://www.stackdata.com/questionId/31192> ;
+        <http://www.stackdata.com/score/>
+                <http://www.stackdata.com/score/5> ;
+        <http://www.stackdata.com/tags/>
+                <http://www.stackdata.com/tags/asp.net> , <http://www.stackdata.com/tags/asp-classic> , <http://www.stackdata.com/tags/migration> ;
+        <http://www.stackdata.com/views/>
+                <http://www.stackdata.com/views/1716> ;
+        <https://www.w3.org/2002/07/owl#sameAs>
+                <https://api.stackexchange.com/2.2/questions/31192?site=stackoverflow> ;
+        <isAnswered>  true .
+
+<http://www.stackdata.com/questions/31711>
+        <http://purl.org/dc/elements/1.1/title/>
+                <http://www.stackdata.com/title/How to plot a long path with Virtual Earth> ;
+        <http://www.stackdata.com/answer-count/>
+                <http://www.stackdata.com/answer-count/1> ;
+        <http://www.stackdata.com/answers/>
+                <http://www.stackoverflow.com/questions/31711/answers#31788> ;
+        <http://www.stackdata.com/created-date/>
+                "2008-08-288:23:30"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+        <http://www.stackdata.com/questionId/>
+                <http://www.stackdata.com/questionId/31711> ;
+        <http://www.stackdata.com/score/>
+                <http://www.stackdata.com/score/2> ;
+        <http://www.stackdata.com/tags/>
+                <http://www.stackdata.com/tags/javascript> , <http://www.stackdata.com/tags/virtual-earth> ;
+        <http://www.stackdata.com/views/>
+                <http://www.stackdata.com/views/369> ;
+        <https://www.w3.org/2002/07/owl#sameAs>
+                <https://api.stackexchange.com/2.2/questions/31711?site=stackoverflow> ;
+        <isAnswered>  true .
+
+<http://www.stackdata.com/questions/28708>
+        <http://purl.org/dc/elements/1.1/title/>
+                <http://www.stackdata.com/title/Process.StartTime Access Denied> ;
+        <http://www.stackdata.com/answer-count/>
+                <http://www.stackdata.com/answer-count/6> ;
+        <http://www.stackdata.com/answers/>
+                <http://www.stackoverflow.com/questions/28708/answers#-1> ;
+        <http://www.stackdata.com/created-date/>
+                "2008-08-2620:48:1"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+        <http://www.stackdata.com/questionId/>
+                <http://www.stackdata.com/questionId/28708> ;
+        <http://www.stackdata.com/score/>
+                <http://www.stackdata.com/score/1> ;
+        <http://www.stackdata.com/tags/>
+                <http://www.stackdata.com/tags/c#> , <http://www.stackdata.com/tags/.net-1.1> , <http://www.stackdata.com/tags/windows-server-2000> ;
+        <http://www.stackdata.com/views/>
+                <http://www.stackdata.com/views/3542> ;
+        <https://www.w3.org/2002/07/owl#sameAs>
+                <https://api.stackexchange.com/2.2/questions/28708?site=stackoverflow> ;
+        <isAnswered>  true .
+
+<http://www.stackdata.com/questions/31708>
+        <http://purl.org/dc/elements/1.1/title/>
+                <http://www.stackdata.com/title/How can I convert IEnumerable&lt;T&gt; to List&lt;T&gt; in C#?> ;
+        <http://www.stackdata.com/answer-count/>
+                <http://www.stackdata.com/answer-count/4> ;
+        <http://www.stackdata.com/answers/>
+                <http://www.stackoverflow.com/questions/31708/answers#31710> ;
+        <http://www.stackdata.com/created-date/>
+                "2008-08-288:21:26"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+        <http://www.stackdata.com/questionId/>
+                <http://www.stackdata.com/questionId/31708> ;
+        <http://www.stackdata.com/score/>
+                <http://www.stackdata.com/score/15> ;
+        <http://www.stackdata.com/tags/>
+                <http://www.stackdata.com/tags/linq> , <http://www.stackdata.com/tags/c#> , <http://www.stackdata.com/tags/generics> , <http://www.stackdata.com/tags/listview> ;
+        <http://www.stackdata.com/views/>
+                <http://www.stackdata.com/views/48414> ;
+        <https://www.w3.org/2002/07/owl#sameAs>
+                <https://api.stackexchange.com/2.2/questions/31708?site=stackoverflow> ;
+        <isAnswered>  true .
+
+<http://www.stackdata.com/questions/32010>
+        <http://purl.org/dc/elements/1.1/title/>
+                <http://www.stackdata.com/title/Is regex case insensitivity slower?> ;
+        <http://www.stackdata.com/answer-count/>
+                <http://www.stackdata.com/answer-count/4> ;
+        <http://www.stackdata.com/answers/>
+                <http://www.stackoverflow.com/questions/32010/answers#32021> ;
+        <http://www.stackdata.com/created-date/>
+                "2008-08-2813:55:17"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+        <http://www.stackdata.com/questionId/>
+                <http://www.stackdata.com/questionId/32010> ;
+        <http://www.stackdata.com/score/>
+                <http://www.stackdata.com/score/9> ;
+        <http://www.stackdata.com/tags/>
+                <http://www.stackdata.com/tags/regex> , <http://www.stackdata.com/tags/language-agnostic> ;
+        <http://www.stackdata.com/views/>
+                <http://www.stackdata.com/views/978> ;
+        <https://www.w3.org/2002/07/owl#sameAs>
+                <https://api.stackexchange.com/2.2/questions/32010?site=stackoverflow> ;
+        <isAnswered>  true .
+
+<http://www.stackdata.com/questions/28768>
+        <http://purl.org/dc/elements/1.1/title/>
+                <http://www.stackdata.com/title/Simple Object to Database Product> ;
+        <http://www.stackdata.com/answer-count/>
+                <http://www.stackdata.com/answer-count/5> ;
+        <http://www.stackdata.com/answers/>
+                <http://www.stackoverflow.com/questions/28768/answers#28868> ;
+        <http://www.stackdata.com/created-date/>
+                "2008-08-2621:14:42"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+        <http://www.stackdata.com/questionId/>
+                <http://www.stackdata.com/questionId/28768> ;
+        <http://www.stackdata.com/score/>
+                <http://www.stackdata.com/score/0> ;
+        <http://www.stackdata.com/tags/>
+                <http://www.stackdata.com/tags/.net> , <http://www.stackdata.com/tags/database> , <http://www.stackdata.com/tags/orm> , <http://www.stackdata.com/tags/c#> ;
+        <http://www.stackdata.com/views/>
+                <http://www.stackdata.com/views/433> ;
+        <https://www.w3.org/2002/07/owl#sameAs>
+                <https://api.stackexchange.com/2.2/questions/28768?site=stackoverflow> ;
+        <isAnswered>  true .
+
+<http://www.stackdata.com/questions/30861>
+        <http://purl.org/dc/elements/1.1/title/>
+                <http://www.stackdata.com/title/Authenticating Domain Users with System.DirectoryServices> ;
+        <http://www.stackdata.com/answer-count/>
+                <http://www.stackdata.com/answer-count/3> ;
+        <http://www.stackdata.com/answers/>
+                <http://www.stackoverflow.com/questions/30861/answers#30902> ;
+        <http://www.stackdata.com/created-date/>
+                "2008-08-2721:49:24"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+        <http://www.stackdata.com/questionId/>
+                <http://www.stackdata.com/questionId/30861> ;
+        <http://www.stackdata.com/score/>
+                <http://www.stackdata.com/score/3> ;
+        <http://www.stackdata.com/tags/>
+                <http://www.stackdata.com/tags/.net> , <http://www.stackdata.com/tags/directoryservices> ;
+        <http://www.stackdata.com/views/>
+                <http://www.stackdata.com/views/6410> ;
+        <https://www.w3.org/2002/07/owl#sameAs>
+                <https://api.stackexchange.com/2.2/questions/30861?site=stackoverflow> ;
+        <isAnswered>  true .
+
+<http://www.stackdata.com/questions/29995>
+        <http://purl.org/dc/elements/1.1/title/>
+                <http://www.stackdata.com/title/Simple programming practice (Fizz Buzz, Print Primes)> ;
+        <http://www.stackdata.com/answer-count/>
+                <http://www.stackdata.com/answer-count/7> ;
+        <http://www.stackdata.com/answers/>
+                <http://www.stackoverflow.com/questions/29995/answers#30051> ;
+        <http://www.stackdata.com/created-date/>
+                "2008-08-2715:46:52"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+        <http://www.stackdata.com/questionId/>
+                <http://www.stackdata.com/questionId/29995> ;
+        <http://www.stackdata.com/score/>
+                <http://www.stackdata.com/score/6> ;
+        <http://www.stackdata.com/tags/>
+                <http://www.stackdata.com/tags/language-agnostic> ;
+        <http://www.stackdata.com/views/>
+                <http://www.stackdata.com/views/3445> ;
+        <https://www.w3.org/2002/07/owl#sameAs>
+                <https://api.stackexchange.com/2.2/questions/29995?site=stackoverflow> ;
+        <isAnswered>  true .
+
+<http://www.stackdata.com/questions/23503>
+        <http://purl.org/dc/elements/1.1/title/>
+                <http://www.stackdata.com/title/CruiseControl.NET and NAnt> ;
+        <http://www.stackdata.com/answer-count/>
+                <http://www.stackdata.com/answer-count/2> ;
+        <http://www.stackdata.com/answers/>
+                <http://www.stackoverflow.com/questions/23503/answers#23628> ;
+        <http://www.stackdata.com/created-date/>
+                "2008-08-2324:12:51"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+        <http://www.stackdata.com/questionId/>
+                <http://www.stackdata.com/questionId/23503> ;
+        <http://www.stackdata.com/score/>
+                <http://www.stackdata.com/score/0> ;
+        <http://www.stackdata.com/tags/>
+                <http://www.stackdata.com/tags/cruisecontrol.net> , <http://www.stackdata.com/tags/nant> ;
+        <http://www.stackdata.com/views/>
+                <http://www.stackdata.com/views/1042> ;
+        <https://www.w3.org/2002/07/owl#sameAs>
+                <https://api.stackexchange.com/2.2/questions/23503?site=stackoverflow> ;
+        <isAnswered>  true .
+
+<http://www.stackdata.com/questions/32845>
+        <http://purl.org/dc/elements/1.1/title/>
+                <http://www.stackdata.com/title/Creating System Restore Points - Thoughts?> ;
+        <http://www.stackdata.com/answer-count/>
+                <http://www.stackdata.com/answer-count/6> ;
+        <http://www.stackdata.com/answers/>
+                <http://www.stackoverflow.com/questions/32845/answers#32995> ;
+        <http://www.stackdata.com/created-date/>
+                "2008-08-2820:16:54"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+        <http://www.stackdata.com/questionId/>
+                <http://www.stackdata.com/questionId/32845> ;
+        <http://www.stackdata.com/score/>
+                <http://www.stackdata.com/score/2> ;
+        <http://www.stackdata.com/tags/>
+                <http://www.stackdata.com/tags/system-restore> ;
+        <http://www.stackdata.com/views/>
+                <http://www.stackdata.com/views/794> ;
+        <https://www.w3.org/2002/07/owl#sameAs>
+                <https://api.stackexchange.com/2.2/questions/32845?site=stackoverflow> ;
+        <isAnswered>  true .
+
+<http://www.stackdata.com/questions/31534>
+        <http://purl.org/dc/elements/1.1/title/>
+                <http://www.stackdata.com/title/Has anyone moved to NHibernate 2.0 in a production environment?> ;
+        <http://www.stackdata.com/answer-count/>
+                <http://www.stackdata.com/answer-count/2> ;
+        <http://www.stackdata.com/answers/>
+                <http://www.stackoverflow.com/questions/31534/answers#33625> ;
+        <http://www.stackdata.com/created-date/>
+                "2008-08-285:22:19"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+        <http://www.stackdata.com/questionId/>
+                <http://www.stackdata.com/questionId/31534> ;
+        <http://www.stackdata.com/score/>
+                <http://www.stackdata.com/score/5> ;
+        <http://www.stackdata.com/tags/>
+                <http://www.stackdata.com/tags/c#> , <http://www.stackdata.com/tags/nhibernate> , <http://www.stackdata.com/tags/persistence> ;
+        <http://www.stackdata.com/views/>
+                <http://www.stackdata.com/views/271> ;
+        <https://www.w3.org/2002/07/owl#sameAs>
+                <https://api.stackexchange.com/2.2/questions/31534?site=stackoverflow> ;
+        <isAnswered>  true .
+
+<http://www.stackdata.com/questions/31865>
+        <http://purl.org/dc/elements/1.1/title/>
+                <http://www.stackdata.com/title/Good reasons for not letting the browser launch local applications> ;
+        <http://www.stackdata.com/answer-count/>
+                <http://www.stackdata.com/answer-count/3> ;
+        <http://www.stackdata.com/answers/>
+                <http://www.stackoverflow.com/questions/31865/answers#31896> ;
+        <http://www.stackdata.com/created-date/>
+                "2008-08-2811:50:20"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+        <http://www.stackdata.com/questionId/>
+                <http://www.stackdata.com/questionId/31865> ;
+        <http://www.stackdata.com/score/>
+                <http://www.stackdata.com/score/1> ;
+        <http://www.stackdata.com/tags/>
+                <http://www.stackdata.com/tags/security> , <http://www.stackdata.com/tags/internet-explorer> , <http://www.stackdata.com/tags/activex> , <http://www.stackdata.com/tags/intranet> ;
+        <http://www.stackdata.com/views/>
+                <http://www.stackdata.com/views/3109> ;
+        <https://www.w3.org/2002/07/owl#sameAs>
+                <https://api.stackexchange.com/2.2/questions/31865?site=stackoverflow> ;
+        <isAnswered>  true .
+
+<http://www.stackdata.com/questions/33619>
+        <http://purl.org/dc/elements/1.1/title/>
+                <http://www.stackdata.com/title/Concurrent logins in a web farm> ;
+        <http://www.stackdata.com/answer-count/>
+                <http://www.stackdata.com/answer-count/4> ;
+        <http://www.stackdata.com/answers/>
+                <http://www.stackoverflow.com/questions/33619/answers#33628> ;
+        <http://www.stackdata.com/created-date/>
+                "2008-08-292:17:43"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+        <http://www.stackdata.com/questionId/>
+                <http://www.stackdata.com/questionId/33619> ;
+        <http://www.stackdata.com/score/>
+                <http://www.stackdata.com/score/1> ;
+        <http://www.stackdata.com/tags/>
+                <http://www.stackdata.com/tags/asp.net> , <http://www.stackdata.com/tags/authentication> ;
+        <http://www.stackdata.com/views/>
+                <http://www.stackdata.com/views/656> ;
+        <https://www.w3.org/2002/07/owl#sameAs>
+                <https://api.stackexchange.com/2.2/questions/33619?site=stackoverflow> ;
+        <isAnswered>  true .
+
+<http://www.stackdata.com/questions/33751>
+        <http://purl.org/dc/elements/1.1/title/>
+                <http://www.stackdata.com/title/How do I add a MIME type to .htaccess?> ;
+        <http://www.stackdata.com/answer-count/>
+                <http://www.stackdata.com/answer-count/2> ;
+        <http://www.stackdata.com/answers/>
+                <http://www.stackoverflow.com/questions/33751/answers#33767> ;
+        <http://www.stackdata.com/created-date/>
+                "2008-08-294:25:43"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+        <http://www.stackdata.com/questionId/>
+                <http://www.stackdata.com/questionId/33751> ;
+        <http://www.stackdata.com/score/>
+                <http://www.stackdata.com/score/8> ;
+        <http://www.stackdata.com/tags/>
+                <http://www.stackdata.com/tags/java> , <http://www.stackdata.com/tags/apache> , <http://www.stackdata.com/tags/.htaccess> , <http://www.stackdata.com/tags/mime> , <http://www.stackdata.com/tags/jnlp> ;
+        <http://www.stackdata.com/views/>
+                <http://www.stackdata.com/views/5245> ;
+        <https://www.w3.org/2002/07/owl#sameAs>
+                <https://api.stackexchange.com/2.2/questions/33751?site=stackoverflow> ;
+        <isAnswered>  true .
+
+<http://www.stackdata.com/questions/33495>
+        <http://purl.org/dc/elements/1.1/title/>
+                <http://www.stackdata.com/title/Could you make a case for using Berkeley DB XML> ;
+        <http://www.stackdata.com/answer-count/>
+                <http://www.stackdata.com/answer-count/1> ;
+        <http://www.stackdata.com/answers/>
+                <http://www.stackoverflow.com/questions/33495/answers#33855> ;
+        <http://www.stackdata.com/created-date/>
+                "2008-08-2924:57:24"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+        <http://www.stackdata.com/questionId/>
+                <http://www.stackdata.com/questionId/33495> ;
+        <http://www.stackdata.com/score/>
+                <http://www.stackdata.com/score/3> ;
+        <http://www.stackdata.com/tags/>
+                <http://www.stackdata.com/tags/berkeley-db> , <http://www.stackdata.com/tags/berkeley-db-xml> ;
+        <http://www.stackdata.com/views/>
+                <http://www.stackdata.com/views/345> ;
+        <https://www.w3.org/2002/07/owl#sameAs>
+                <https://api.stackexchange.com/2.2/questions/33495?site=stackoverflow> ;
+        <isAnswered>  true .
+
+<http://www.stackdata.com/questions/33790>
+        <http://purl.org/dc/elements/1.1/title/>
+                <http://www.stackdata.com/title/How can I use `scp` to deploy a website&#39;s `.htaccess` file?> ;
+        <http://www.stackdata.com/answer-count/>
+                <http://www.stackdata.com/answer-count/3> ;
+        <http://www.stackdata.com/answers/>
+                <http://www.stackoverflow.com/questions/33790/answers#33791> ;
+        <http://www.stackdata.com/created-date/>
+                "2008-08-294:44:54"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+        <http://www.stackdata.com/questionId/>
+                <http://www.stackdata.com/questionId/33790> ;
+        <http://www.stackdata.com/score/>
+                <http://www.stackdata.com/score/2> ;
+        <http://www.stackdata.com/tags/>
+                <http://www.stackdata.com/tags/deployment> , <http://www.stackdata.com/tags/.htaccess> , <http://www.stackdata.com/tags/scp> , <http://www.stackdata.com/tags/shared-host> ;
+        <http://www.stackdata.com/views/>
+                <http://www.stackdata.com/views/1336> ;
+        <https://www.w3.org/2002/07/owl#sameAs>
+                <https://api.stackexchange.com/2.2/questions/33790?site=stackoverflow> ;
+        <isAnswered>  true .
+
+<http://www.stackdata.com/questions/32505>
+        <http://purl.org/dc/elements/1.1/title/>
+                <http://www.stackdata.com/title/XML Parser Validation Report> ;
+        <http://www.stackdata.com/answer-count/>
+                <http://www.stackdata.com/answer-count/3> ;
+        <http://www.stackdata.com/answers/>
+                <http://www.stackoverflow.com/questions/32505/answers#-1> ;
+        <http://www.stackdata.com/created-date/>
+                "2008-08-2818:2:29"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+        <http://www.stackdata.com/questionId/>
+                <http://www.stackdata.com/questionId/32505> ;
+        <http://www.stackdata.com/score/>
+                <http://www.stackdata.com/score/1> ;
+        <http://www.stackdata.com/tags/>
+                <http://www.stackdata.com/tags/xml> , <http://www.stackdata.com/tags/validation> ;
+        <http://www.stackdata.com/views/>
+                <http://www.stackdata.com/views/1726> ;
+        <https://www.w3.org/2002/07/owl#sameAs>
+                <https://api.stackexchange.com/2.2/questions/32505?site=stackoverflow> ;
+        <isAnswered>  true .
+
+<http://www.stackdata.com/questions/29822>
+        <http://purl.org/dc/elements/1.1/title/>
+                <http://www.stackdata.com/title/Giant NodeManagerLogs from hibernate in weblogic> ;
+        <http://www.stackdata.com/answer-count/>
+                <http://www.stackdata.com/answer-count/2> ;
+        <http://www.stackdata.com/answers/>
+                <http://www.stackoverflow.com/questions/29822/answers#29904> ;
+        <http://www.stackdata.com/created-date/>
+                "2008-08-2712:50:27"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+        <http://www.stackdata.com/questionId/>
+                <http://www.stackdata.com/questionId/29822> ;
+        <http://www.stackdata.com/score/>
+                <http://www.stackdata.com/score/2> ;
+        <http://www.stackdata.com/tags/>
+                <http://www.stackdata.com/tags/hibernate> , <http://www.stackdata.com/tags/logging> , <http://www.stackdata.com/tags/weblogic> ;
+        <http://www.stackdata.com/views/>
+                <http://www.stackdata.com/views/598> ;
+        <https://www.w3.org/2002/07/owl#sameAs>
+                <https://api.stackexchange.com/2.2/questions/29822?site=stackoverflow> ;
+        <isAnswered>  true .
+
+<http://www.stackdata.com/questions/34128>
+        <http://purl.org/dc/elements/1.1/title/>
+                <http://www.stackdata.com/title/How to you pass a variable amount of parmeters to web-service> ;
+        <http://www.stackdata.com/answer-count/>
+                <http://www.stackdata.com/answer-count/4> ;
+        <http://www.stackdata.com/answers/>
+                <http://www.stackoverflow.com/questions/34128/answers#34150> ;
+        <http://www.stackdata.com/created-date/>
+                "2008-08-2910:38:40"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+        <http://www.stackdata.com/questionId/>
+                <http://www.stackdata.com/questionId/34128> ;
+        <http://www.stackdata.com/score/>
+                <http://www.stackdata.com/score/3> ;
+        <http://www.stackdata.com/tags/>
+                <http://www.stackdata.com/tags/web-services> , <http://www.stackdata.com/tags/soap> , <http://www.stackdata.com/tags/c#> ;
+        <http://www.stackdata.com/views/>
+                <http://www.stackdata.com/views/1231> ;
+        <https://www.w3.org/2002/07/owl#sameAs>
+                <https://api.stackexchange.com/2.2/questions/34128?site=stackoverflow> ;
+        <isAnswered>  true .
+
+<http://www.stackdata.com/questions/32643>
+        <http://purl.org/dc/elements/1.1/title/>
+                <http://www.stackdata.com/title/Automatic image rotation based on a logo> ;
+        <http://www.stackdata.com/answer-count/>
+                <http://www.stackdata.com/answer-count/3> ;
+        <http://www.stackdata.com/answers/>
+                <http://www.stackoverflow.com/questions/32643/answers#34311> ;
+        <http://www.stackdata.com/created-date/>
+                "2008-08-2818:50:57"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+        <http://www.stackdata.com/questionId/>
+                <http://www.stackdata.com/questionId/32643> ;
+        <http://www.stackdata.com/score/>
+                <http://www.stackdata.com/score/3> ;
+        <http://www.stackdata.com/tags/>
+                <http://www.stackdata.com/tags/c> , <http://www.stackdata.com/tags/image-manipulation> , <http://www.stackdata.com/tags/opencv> , <http://www.stackdata.com/tags/tiff> , <http://www.stackdata.com/tags/watermark> ;
+        <http://www.stackdata.com/views/>
+                <http://www.stackdata.com/views/1250> ;
+        <https://www.w3.org/2002/07/owl#sameAs>
+                <https://api.stackexchange.com/2.2/questions/32643?site=stackoverflow> ;
+        <isAnswered>  true .
+
+<http://www.stackdata.com/questions/33252>
+        <http://purl.org/dc/elements/1.1/title/>
+                <http://www.stackdata.com/title/Getting files and their version numbers from sharepoint> ;
+        <http://www.stackdata.com/answer-count/>
+                <http://www.stackdata.com/answer-count/2> ;
+        <http://www.stackdata.com/answers/>
+                <http://www.stackoverflow.com/questions/33252/answers#34465> ;
+        <http://www.stackdata.com/created-date/>
+                "2008-08-2822:58:58"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+        <http://www.stackdata.com/questionId/>
+                <http://www.stackdata.com/questionId/33252> ;
+        <http://www.stackdata.com/score/>
+                <http://www.stackdata.com/score/1> ;
+        <http://www.stackdata.com/tags/>
+                <http://www.stackdata.com/tags/versioning> , <http://www.stackdata.com/tags/sharepoint> ;
+        <http://www.stackdata.com/views/>
+                <http://www.stackdata.com/views/1742> ;
+        <https://www.w3.org/2002/07/owl#sameAs>
+                <https://api.stackexchange.com/2.2/questions/33252?site=stackoverflow> ;
+        <isAnswered>  true .
+
+<http://www.stackdata.com/questions/29733>
+        <http://purl.org/dc/elements/1.1/title/>
+                <http://www.stackdata.com/title/Trackback/Pingback libraries for Python/Ruby?> ;
+        <http://www.stackdata.com/answer-count/>
+                <http://www.stackdata.com/answer-count/1> ;
+        <http://www.stackdata.com/answers/>
+                <http://www.stackoverflow.com/questions/29733/answers#30068> ;
+        <http://www.stackdata.com/created-date/>
+                "2008-08-2711:24:42"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+        <http://www.stackdata.com/questionId/>
+                <http://www.stackdata.com/questionId/29733> ;
+        <http://www.stackdata.com/score/>
+                <http://www.stackdata.com/score/6> ;
+        <http://www.stackdata.com/tags/>
+                <http://www.stackdata.com/tags/ruby> , <http://www.stackdata.com/tags/python> , <http://www.stackdata.com/tags/blogs> ;
+        <http://www.stackdata.com/views/>
+                <http://www.stackdata.com/views/894> ;
+        <https://www.w3.org/2002/07/owl#sameAs>
+                <https://api.stackexchange.com/2.2/questions/29733?site=stackoverflow> ;
+        <isAnswered>  true .
+
+<http://www.stackdata.com/questions/34806>
+        <http://purl.org/dc/elements/1.1/title/>
+                <http://www.stackdata.com/title/Class design decision> ;
+        <http://www.stackdata.com/answer-count/>
+                <http://www.stackdata.com/answer-count/2> ;
+        <http://www.stackdata.com/answers/>
+                <http://www.stackoverflow.com/questions/34806/answers#34832> ;
+        <http://www.stackdata.com/created-date/>
+                "2008-08-2920:29:38"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+        <http://www.stackdata.com/questionId/>
+                <http://www.stackdata.com/questionId/34806> ;
+        <http://www.stackdata.com/score/>
+                <http://www.stackdata.com/score/1> ;
+        <http://www.stackdata.com/tags/>
+                <http://www.stackdata.com/tags/inheritance> , <http://www.stackdata.com/tags/asp.net-membership> , <http://www.stackdata.com/tags/oop> ;
+        <http://www.stackdata.com/views/>
+                <http://www.stackdata.com/views/208> ;
+        <https://www.w3.org/2002/07/owl#sameAs>
+                <https://api.stackexchange.com/2.2/questions/34806?site=stackoverflow> ;
+        <isAnswered>  true .
+
+<http://www.stackdata.com/questions/34673>
+        <http://purl.org/dc/elements/1.1/title/>
+                <http://www.stackdata.com/title/If you had to pick the best artifact in scrum, what would it be?> ;
+        <http://www.stackdata.com/answer-count/>
+                <http://www.stackdata.com/answer-count/7> ;
+        <http://www.stackdata.com/answers/>
+                <http://www.stackoverflow.com/questions/34673/answers#34680> ;
+        <http://www.stackdata.com/created-date/>
+                "2008-08-2919:39:45"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+        <http://www.stackdata.com/questionId/>
+                <http://www.stackdata.com/questionId/34673> ;
+        <http://www.stackdata.com/score/>
+                <http://www.stackdata.com/score/4> ;
+        <http://www.stackdata.com/tags/>
+                <http://www.stackdata.com/tags/scrum> ;
+        <http://www.stackdata.com/views/>
+                <http://www.stackdata.com/views/718> ;
+        <https://www.w3.org/2002/07/owl#sameAs>
+                <https://api.stackexchange.com/2.2/questions/34673?site=stackoverflow> ;
+        <isAnswered>  true .
+
+<http://www.stackdata.com/questions/34345>
+        <http://purl.org/dc/elements/1.1/title/>
+                <http://www.stackdata.com/title/Finding your own number in a box> ;
+        <http://www.stackdata.com/answer-count/>
+                <http://www.stackdata.com/answer-count/11> ;
+        <http://www.stackdata.com/answers/>
+                <http://www.stackoverflow.com/questions/34345/answers#34966> ;
+        <http://www.stackdata.com/created-date/>
+                "2008-08-2913:39:13"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+        <http://www.stackdata.com/questionId/>
+                <http://www.stackdata.com/questionId/34345> ;
+        <http://www.stackdata.com/score/>
+                <http://www.stackdata.com/score/8> ;
+        <http://www.stackdata.com/tags/>
+                <http://www.stackdata.com/tags/algorithm> , <http://www.stackdata.com/tags/puzzle> ;
+        <http://www.stackdata.com/views/>
+                <http://www.stackdata.com/views/1000> ;
+        <https://www.w3.org/2002/07/owl#sameAs>
+                <https://api.stackexchange.com/2.2/questions/34345?site=stackoverflow> ;
+        <isAnswered>  true .
+
+<http://www.stackdata.com/questions/32596>
+        <http://purl.org/dc/elements/1.1/title/>
+                <http://www.stackdata.com/title/Odd behaviour for rowSpan in Flex> ;
+        <http://www.stackdata.com/answer-count/>
+                <http://www.stackdata.com/answer-count/1> ;
+        <http://www.stackdata.com/answers/>
+                <http://www.stackoverflow.com/questions/32596/answers#34771> ;
+        <http://www.stackdata.com/created-date/>
+                "2008-08-2818:30:27"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+        <http://www.stackdata.com/questionId/>
+                <http://www.stackdata.com/questionId/32596> ;
+        <http://www.stackdata.com/score/>
+                <http://www.stackdata.com/score/0> ;
+        <http://www.stackdata.com/tags/>
+                <http://www.stackdata.com/tags/flex> ;
+        <http://www.stackdata.com/views/>
+                <http://www.stackdata.com/views/2261> ;
+        <https://www.w3.org/2002/07/owl#sameAs>
+                <https://api.stackexchange.com/2.2/questions/32596?site=stackoverflow> ;
+        <isAnswered>  true .
+
+<http://www.stackdata.com/questions/35256>
+        <http://purl.org/dc/elements/1.1/title/>
+                <http://www.stackdata.com/title/Managing multiple identical databases efficiently?> ;
+        <http://www.stackdata.com/answer-count/>
+                <http://www.stackdata.com/answer-count/3> ;
+        <http://www.stackdata.com/answers/>
+                <http://www.stackoverflow.com/questions/35256/answers#-1> ;
+        <http://www.stackdata.com/created-date/>
+                "2008-08-2923:37:42"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+        <http://www.stackdata.com/questionId/>
+                <http://www.stackdata.com/questionId/35256> ;
+        <http://www.stackdata.com/score/>
+                <http://www.stackdata.com/score/2> ;
+        <http://www.stackdata.com/tags/>
+                <http://www.stackdata.com/tags/database> ;
+        <http://www.stackdata.com/views/>
+                <http://www.stackdata.com/views/302> ;
+        <https://www.w3.org/2002/07/owl#sameAs>
+                <https://api.stackexchange.com/2.2/questions/35256?site=stackoverflow> ;
+        <isAnswered>  true .
+
+<http://www.stackdata.com/questions/10999>
+        <http://purl.org/dc/elements/1.1/title/>
+                <http://www.stackdata.com/title/MS Team Foundation Server in distributed environments - hints tips tricks needed> ;
+        <http://www.stackdata.com/answer-count/>
+                <http://www.stackdata.com/answer-count/3> ;
+        <http://www.stackdata.com/answers/>
+                <http://www.stackoverflow.com/questions/10999/answers#11034> ;
+        <http://www.stackdata.com/created-date/>
+                "2008-08-1416:27:40"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+        <http://www.stackdata.com/questionId/>
+                <http://www.stackdata.com/questionId/10999> ;
+        <http://www.stackdata.com/score/>
+                <http://www.stackdata.com/score/4> ;
+        <http://www.stackdata.com/tags/>
+                <http://www.stackdata.com/tags/visual-studio> , <http://www.stackdata.com/tags/tfs> ;
+        <http://www.stackdata.com/views/>
+                <http://www.stackdata.com/views/1907> ;
+        <https://www.w3.org/2002/07/owl#sameAs>
+                <https://api.stackexchange.com/2.2/questions/10999?site=stackoverflow> ;
+        <isAnswered>  true .
+
+<http://www.stackdata.com/questions/31303>
+        <http://purl.org/dc/elements/1.1/title/>
+                <http://www.stackdata.com/title/Checklist for Database Schema Upgrades> ;
+        <http://www.stackdata.com/answer-count/>
+                <http://www.stackdata.com/answer-count/5> ;
+        <http://www.stackdata.com/answers/>
+                <http://www.stackoverflow.com/questions/31303/answers#31481> ;
+        <http://www.stackdata.com/created-date/>
+                "2008-08-2824:11:20"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+        <http://www.stackdata.com/questionId/>
+                <http://www.stackdata.com/questionId/31303> ;
+        <http://www.stackdata.com/score/>
+                <http://www.stackdata.com/score/10> ;
+        <http://www.stackdata.com/tags/>
+                <http://www.stackdata.com/tags/database> , <http://www.stackdata.com/tags/installation> , <http://www.stackdata.com/tags/version-control> ;
+        <http://www.stackdata.com/views/>
+                <http://www.stackdata.com/views/991> ;
+        <https://www.w3.org/2002/07/owl#sameAs>
+                <https://api.stackexchange.com/2.2/questions/31303?site=stackoverflow> ;
+        <isAnswered>  true .
+
+<http://www.stackdata.com/questions/35709>
+        <http://purl.org/dc/elements/1.1/title/>
+                <http://www.stackdata.com/title/Change Active Sound Card on the Fly> ;
+        <http://www.stackdata.com/answer-count/>
+                <http://www.stackdata.com/answer-count/1> ;
+        <http://www.stackdata.com/answers/>
+                <http://www.stackoverflow.com/questions/35709/answers#35735> ;
+        <http://www.stackdata.com/created-date/>
+                "2008-08-308:43:56"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+        <http://www.stackdata.com/questionId/>
+                <http://www.stackdata.com/questionId/35709> ;
+        <http://www.stackdata.com/score/>
+                <http://www.stackdata.com/score/2> ;
+        <http://www.stackdata.com/tags/>
+                <http://www.stackdata.com/tags/windows> , <http://www.stackdata.com/tags/audio> , <http://www.stackdata.com/tags/hardware> ;
+        <http://www.stackdata.com/views/>
+                <http://www.stackdata.com/views/1627> ;
+        <https://www.w3.org/2002/07/owl#sameAs>
+                <https://api.stackexchange.com/2.2/questions/35709?site=stackoverflow> ;
+        <isAnswered>  true .
+
+<http://www.stackdata.com/questions/35304>
+        <http://purl.org/dc/elements/1.1/title/>
+                <http://www.stackdata.com/title/FlexUnit component testing patterns: use addAsync or manually initialize?> ;
+        <http://www.stackdata.com/answer-count/>
+                <http://www.stackdata.com/answer-count/1> ;
+        <http://www.stackdata.com/answers/>
+                <http://www.stackoverflow.com/questions/35304/answers#35791> ;
+        <http://www.stackdata.com/created-date/>
+                "2008-08-3024:13:57"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+        <http://www.stackdata.com/questionId/>
+                <http://www.stackdata.com/questionId/35304> ;
+        <http://www.stackdata.com/score/>
+                <http://www.stackdata.com/score/1> ;
+        <http://www.stackdata.com/tags/>
+                <http://www.stackdata.com/tags/unit-testing> , <http://www.stackdata.com/tags/flex> ;
+        <http://www.stackdata.com/views/>
+                <http://www.stackdata.com/views/1528> ;
+        <https://www.w3.org/2002/07/owl#sameAs>
+                <https://api.stackexchange.com/2.2/questions/35304?site=stackoverflow> ;
+        <isAnswered>  true .
+
+<http://www.stackdata.com/questions/35722>
+        <http://purl.org/dc/elements/1.1/title/>
+                <http://www.stackdata.com/title/Desktop search utility for pdf,chm and djvu files> ;
+        <http://www.stackdata.com/answer-count/>
+                <http://www.stackdata.com/answer-count/3> ;
+        <http://www.stackdata.com/answers/>
+                <http://www.stackoverflow.com/questions/35722/answers#-1> ;
+        <http://www.stackdata.com/created-date/>
+                "2008-08-308:58:4"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+        <http://www.stackdata.com/questionId/>
+                <http://www.stackdata.com/questionId/35722> ;
+        <http://www.stackdata.com/score/>
+                <http://www.stackdata.com/score/3> ;
+        <http://www.stackdata.com/tags/>
+                <http://www.stackdata.com/tags/desktop-search> ;
+        <http://www.stackdata.com/views/>
+                <http://www.stackdata.com/views/1136> ;
+        <https://www.w3.org/2002/07/owl#sameAs>
+                <https://api.stackexchange.com/2.2/questions/35722?site=stackoverflow> ;
+        <isAnswered>  true .
+
+<http://www.stackdata.com/questions/35762>
+        <http://purl.org/dc/elements/1.1/title/>
+                <http://www.stackdata.com/title/Linux GUI development> ;
+        <http://www.stackdata.com/answer-count/>
+                <http://www.stackdata.com/answer-count/4> ;
+        <http://www.stackdata.com/answers/>
+                <http://www.stackoverflow.com/questions/35762/answers#35770> ;
+        <http://www.stackdata.com/created-date/>
+                "2008-08-3010:51:26"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+        <http://www.stackdata.com/questionId/>
+                <http://www.stackdata.com/questionId/35762> ;
+        <http://www.stackdata.com/score/>
+                <http://www.stackdata.com/score/12> ;
+        <http://www.stackdata.com/tags/>
+                <http://www.stackdata.com/tags/c++> , <http://www.stackdata.com/tags/linux> , <http://www.stackdata.com/tags/user-interface> , <http://www.stackdata.com/tags/gnome> , <http://www.stackdata.com/tags/kde> ;
+        <http://www.stackdata.com/views/>
+                <http://www.stackdata.com/views/7262> ;
+        <https://www.w3.org/2002/07/owl#sameAs>
+                <https://api.stackexchange.com/2.2/questions/35762?site=stackoverflow> ;
+        <isAnswered>  true .
+
+<http://www.stackdata.com/questions/7287>
+        <http://purl.org/dc/elements/1.1/title/>
+                <http://www.stackdata.com/title/How do you test/change untested and untestable code?> ;
+        <http://www.stackdata.com/answer-count/>
+                <http://www.stackdata.com/answer-count/4> ;
+        <http://www.stackdata.com/answers/>
+                <http://www.stackoverflow.com/questions/7287/answers#7296> ;
+        <http://www.stackdata.com/created-date/>
+                "2008-08-1021:49:53"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+        <http://www.stackdata.com/questionId/>
+                <http://www.stackdata.com/questionId/7287> ;
+        <http://www.stackdata.com/score/>
+                <http://www.stackdata.com/score/6> ;
+        <http://www.stackdata.com/tags/>
+                <http://www.stackdata.com/tags/unit-testing> , <http://www.stackdata.com/tags/refactoring> , <http://www.stackdata.com/tags/legacy> ;
+        <http://www.stackdata.com/views/>
+                <http://www.stackdata.com/views/672> ;
+        <https://www.w3.org/2002/07/owl#sameAs>
+                <https://api.stackexchange.com/2.2/questions/7287?site=stackoverflow> ;
+        <isAnswered>  true .
+
+<http://www.stackdata.com/questions/36028>
+        <http://purl.org/dc/elements/1.1/title/>
+                <http://www.stackdata.com/title/How to assign a method&#39;s output to a textbox value without code behind> ;
+        <http://www.stackdata.com/answer-count/>
+                <http://www.stackdata.com/answer-count/3> ;
+        <http://www.stackdata.com/answers/>
+                <http://www.stackoverflow.com/questions/36028/answers#36234> ;
+        <http://www.stackdata.com/created-date/>
+                "2008-08-3018:9:6"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+        <http://www.stackdata.com/questionId/>
+                <http://www.stackdata.com/questionId/36028> ;
+        <http://www.stackdata.com/score/>
+                <http://www.stackdata.com/score/1> ;
+        <http://www.stackdata.com/tags/>
+                <http://www.stackdata.com/tags/asp.net> , <http://www.stackdata.com/tags/vb.net> ;
+        <http://www.stackdata.com/views/>
+                <http://www.stackdata.com/views/3009> ;
+        <https://www.w3.org/2002/07/owl#sameAs>
+                <https://api.stackexchange.com/2.2/questions/36028?site=stackoverflow> ;
+        <isAnswered>  true .
+
+<http://www.stackdata.com/questions/30800>
+        <http://purl.org/dc/elements/1.1/title/>
+                <http://www.stackdata.com/title/How can I authenticate using client credentials in WCF just once?> ;
+        <http://www.stackdata.com/answer-count/>
+                <http://www.stackdata.com/answer-count/2> ;
+        <http://www.stackdata.com/answers/>
+                <http://www.stackoverflow.com/questions/30800/answers#36384> ;
+        <http://www.stackdata.com/created-date/>
+                "2008-08-2721:23:20"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+        <http://www.stackdata.com/questionId/>
+                <http://www.stackdata.com/questionId/30800> ;
+        <http://www.stackdata.com/score/>
+                <http://www.stackdata.com/score/1> ;
+        <http://www.stackdata.com/tags/>
+                <http://www.stackdata.com/tags/security> , <http://www.stackdata.com/tags/authentication> , <http://www.stackdata.com/tags/wcf> , <http://www.stackdata.com/tags/ws-security> ;
+        <http://www.stackdata.com/views/>
+                <http://www.stackdata.com/views/18056> ;
+        <https://www.w3.org/2002/07/owl#sameAs>
+                <https://api.stackexchange.com/2.2/questions/30800?site=stackoverflow> ;
+        <isAnswered>  true .
+
+<http://www.stackdata.com/questions/32537>
+        <http://purl.org/dc/elements/1.1/title/>
+                <http://www.stackdata.com/title/What is the best way to use a console when developing?> ;
+        <http://www.stackdata.com/answer-count/>
+                <http://www.stackdata.com/answer-count/5> ;
+        <http://www.stackdata.com/answers/>
+                <http://www.stackoverflow.com/questions/32537/answers#32686> ;
+        <http://www.stackdata.com/created-date/>
+                "2008-08-2818:13:20"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+        <http://www.stackdata.com/questionId/>
+                <http://www.stackdata.com/questionId/32537> ;
+        <http://www.stackdata.com/score/>
+                <http://www.stackdata.com/score/2> ;
+        <http://www.stackdata.com/tags/>
+                <http://www.stackdata.com/tags/scripting> , <http://www.stackdata.com/tags/console> ;
+        <http://www.stackdata.com/views/>
+                <http://www.stackdata.com/views/267> ;
+        <https://www.w3.org/2002/07/owl#sameAs>
+                <https://api.stackexchange.com/2.2/questions/32537?site=stackoverflow> ;
+        <isAnswered>  true .
+
+<http://www.stackdata.com/questions/36030>
+        <http://purl.org/dc/elements/1.1/title/>
+                <http://www.stackdata.com/title/Yaws uses old config file> ;
+        <http://www.stackdata.com/answer-count/>
+                <http://www.stackdata.com/answer-count/1> ;
+        <http://www.stackdata.com/answers/>
+                <http://www.stackoverflow.com/questions/36030/answers#36059> ;
+        <http://www.stackdata.com/created-date/>
+                "2008-08-3018:15:1"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+        <http://www.stackdata.com/questionId/>
+                <http://www.stackdata.com/questionId/36030> ;
+        <http://www.stackdata.com/score/>
+                <http://www.stackdata.com/score/0> ;
+        <http://www.stackdata.com/tags/>
+                <http://www.stackdata.com/tags/yaws> ;
+        <http://www.stackdata.com/views/>
+                <http://www.stackdata.com/views/241> ;
+        <https://www.w3.org/2002/07/owl#sameAs>
+                <https://api.stackexchange.com/2.2/questions/36030?site=stackoverflow> ;
+        <isAnswered>  true .
+
+<http://www.stackdata.com/questions/16320>
+        <http://purl.org/dc/elements/1.1/title/>
+                <http://www.stackdata.com/title/Should DB layer members be static or instance?> ;
+        <http://www.stackdata.com/answer-count/>
+                <http://www.stackdata.com/answer-count/6> ;
+        <http://www.stackdata.com/answers/>
+                <http://www.stackoverflow.com/questions/16320/answers#-1> ;
+        <http://www.stackdata.com/created-date/>
+                "2008-08-1917:49:55"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+        <http://www.stackdata.com/questionId/>
+                <http://www.stackdata.com/questionId/16320> ;
+        <http://www.stackdata.com/score/>
+                <http://www.stackdata.com/score/3> ;
+        <http://www.stackdata.com/tags/>
+                <http://www.stackdata.com/tags/database> , <http://www.stackdata.com/tags/orm> , <http://www.stackdata.com/tags/class-design> ;
+        <http://www.stackdata.com/views/>
+                <http://www.stackdata.com/views/520> ;
+        <https://www.w3.org/2002/07/owl#sameAs>
+                <https://api.stackexchange.com/2.2/questions/16320?site=stackoverflow> ;
+        <isAnswered>  true .
+
+<http://www.stackdata.com/questions/19162>
+        <http://purl.org/dc/elements/1.1/title/>
+                <http://www.stackdata.com/title/PHP Script to populate MySQL tables> ;
+        <http://www.stackdata.com/answer-count/>
+                <http://www.stackdata.com/answer-count/1> ;
+        <http://www.stackdata.com/answers/>
+                <http://www.stackoverflow.com/questions/19162/answers#19171> ;
+        <http://www.stackdata.com/created-date/>
+                "2008-08-213:46:52"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+        <http://www.stackdata.com/questionId/>
+                <http://www.stackdata.com/questionId/19162> ;
+        <http://www.stackdata.com/score/>
+                <http://www.stackdata.com/score/13> ;
+        <http://www.stackdata.com/tags/>
+                <http://www.stackdata.com/tags/testing> , <http://www.stackdata.com/tags/php> , <http://www.stackdata.com/tags/mysql> , <http://www.stackdata.com/tags/dataset> , <http://www.stackdata.com/tags/test-data> ;
+        <http://www.stackdata.com/views/>
+                <http://www.stackdata.com/views/4263> ;
+        <https://www.w3.org/2002/07/owl#sameAs>
+                <https://api.stackexchange.com/2.2/questions/19162?site=stackoverflow> ;
+        <isAnswered>  true .
+
+<http://www.stackdata.com/questions/18216>
+        <http://purl.org/dc/elements/1.1/title/>
+                <http://www.stackdata.com/title/Query a union table with fields as columns> ;
+        <http://www.stackdata.com/answer-count/>
+                <http://www.stackdata.com/answer-count/5> ;
+        <http://www.stackdata.com/answers/>
+                <http://www.stackoverflow.com/questions/18216/answers#18239> ;
+        <http://www.stackdata.com/created-date/>
+                "2008-08-2018:23:2"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+        <http://www.stackdata.com/questionId/>
+                <http://www.stackdata.com/questionId/18216> ;
+        <http://www.stackdata.com/score/>
+                <http://www.stackdata.com/score/2> ;
+        <http://www.stackdata.com/tags/>
+                <http://www.stackdata.com/tags/sql> , <http://www.stackdata.com/tags/database-design> , <http://www.stackdata.com/tags/stored-procedures> ;
+        <http://www.stackdata.com/views/>
+                <http://www.stackdata.com/views/820> ;
+        <https://www.w3.org/2002/07/owl#sameAs>
+                <https://api.stackexchange.com/2.2/questions/18216?site=stackoverflow> ;
+        <isAnswered>  true .
+
+<http://www.stackdata.com/questions/19089>
+        <http://purl.org/dc/elements/1.1/title/>
+                <http://www.stackdata.com/title/How do I do an Upsert Into Table?> ;
+        <http://www.stackdata.com/answer-count/>
+                <http://www.stackdata.com/answer-count/6> ;
+        <http://www.stackdata.com/answers/>
+                <http://www.stackoverflow.com/questions/19089/answers#19109> ;
+        <http://www.stackdata.com/created-date/>
+                "2008-08-212:46:13"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+        <http://www.stackdata.com/questionId/>
+                <http://www.stackdata.com/questionId/19089> ;
+        <http://www.stackdata.com/score/>
+                <http://www.stackdata.com/score/3> ;
+        <http://www.stackdata.com/tags/>
+                <http://www.stackdata.com/tags/sql> , <http://www.stackdata.com/tags/sql-server> , <http://www.stackdata.com/tags/tsql> ;
+        <http://www.stackdata.com/views/>
+                <http://www.stackdata.com/views/2790> ;
+        <https://www.w3.org/2002/07/owl#sameAs>
+                <https://api.stackexchange.com/2.2/questions/19089?site=stackoverflow> ;
+        <isAnswered>  true .
+
+<http://www.stackdata.com/questions/19744>
+        <http://purl.org/dc/elements/1.1/title/>
+                <http://www.stackdata.com/title/Trigger without a transaction?> ;
+        <http://www.stackdata.com/answer-count/>
+                <http://www.stackdata.com/answer-count/2> ;
+        <http://www.stackdata.com/answers/>
+                <http://www.stackoverflow.com/questions/19744/answers#30681> ;
+        <http://www.stackdata.com/created-date/>
+                "2008-08-2115:36:42"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+        <http://www.stackdata.com/questionId/>
+                <http://www.stackdata.com/questionId/19744> ;
+        <http://www.stackdata.com/score/>
+                <http://www.stackdata.com/score/2> ;
+        <http://www.stackdata.com/tags/>
+                <http://www.stackdata.com/tags/sql-server> , <http://www.stackdata.com/tags/tsql> , <http://www.stackdata.com/tags/triggers> ;
+        <http://www.stackdata.com/views/>
+                <http://www.stackdata.com/views/1095> ;
+        <https://www.w3.org/2002/07/owl#sameAs>
+                <https://api.stackexchange.com/2.2/questions/19744?site=stackoverflow> ;
+        <isAnswered>  true .
+
+<http://www.stackdata.com/questions/36182>
+        <http://purl.org/dc/elements/1.1/title/>
+                <http://www.stackdata.com/title/How expensive is ST_GeomFromText> ;
+        <http://www.stackdata.com/answer-count/>
+                <http://www.stackdata.com/answer-count/2> ;
+        <http://www.stackdata.com/answers/>
+                <http://www.stackoverflow.com/questions/36182/answers#36397> ;
+        <http://www.stackdata.com/created-date/>
+                "2008-08-3020:25:40"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+        <http://www.stackdata.com/questionId/>
+                <http://www.stackdata.com/questionId/36182> ;
+        <http://www.stackdata.com/score/>
+                <http://www.stackdata.com/score/1> ;
+        <http://www.stackdata.com/tags/>
+                <http://www.stackdata.com/tags/gis> , <http://www.stackdata.com/tags/postgis> ;
+        <http://www.stackdata.com/views/>
+                <http://www.stackdata.com/views/839> ;
+        <https://www.w3.org/2002/07/owl#sameAs>
+                <https://api.stackexchange.com/2.2/questions/36182?site=stackoverflow> ;
+        <isAnswered>  true .
+
+<http://www.stackdata.com/questions/29067>
+        <http://purl.org/dc/elements/1.1/title/>
+                <http://www.stackdata.com/title/Creating a UserControl Programmaticly within a repeater?> ;
+        <http://www.stackdata.com/answer-count/>
+                <http://www.stackdata.com/answer-count/4> ;
+        <http://www.stackdata.com/answers/>
+                <http://www.stackoverflow.com/questions/29067/answers#-1> ;
+        <http://www.stackdata.com/created-date/>
+                "2008-08-271:10:38"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+        <http://www.stackdata.com/questionId/>
+                <http://www.stackdata.com/questionId/29067> ;
+        <http://www.stackdata.com/score/>
+                <http://www.stackdata.com/score/0> ;
+        <http://www.stackdata.com/tags/>
+                <http://www.stackdata.com/tags/asp.net> , <http://www.stackdata.com/tags/user-controls> , <http://www.stackdata.com/tags/webforms> ;
+        <http://www.stackdata.com/views/>
+                <http://www.stackdata.com/views/1918> ;
+        <https://www.w3.org/2002/07/owl#sameAs>
+                <https://api.stackexchange.com/2.2/questions/29067?site=stackoverflow> ;
+        <isAnswered>  true .
+
+<http://www.stackdata.com/questions/30379>
+        <http://purl.org/dc/elements/1.1/title/>
+                <http://www.stackdata.com/title/How do I replicate content on a web farm> ;
+        <http://www.stackdata.com/answer-count/>
+                <http://www.stackdata.com/answer-count/2> ;
+        <http://www.stackdata.com/answers/>
+                <http://www.stackoverflow.com/questions/30379/answers#30394> ;
+        <http://www.stackdata.com/created-date/>
+                "2008-08-2718:5:51"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+        <http://www.stackdata.com/questionId/>
+                <http://www.stackdata.com/questionId/30379> ;
+        <http://www.stackdata.com/score/>
+                <http://www.stackdata.com/score/3> ;
+        <http://www.stackdata.com/tags/>
+                <http://www.stackdata.com/tags/iis> , <http://www.stackdata.com/tags/replication> , <http://www.stackdata.com/tags/webserver> ;
+        <http://www.stackdata.com/views/>
+                <http://www.stackdata.com/views/983> ;
+        <https://www.w3.org/2002/07/owl#sameAs>
+                <https://api.stackexchange.com/2.2/questions/30379?site=stackoverflow> ;
+        <isAnswered>  true .
+
+<http://www.stackdata.com/questions/16556>
+        <http://purl.org/dc/elements/1.1/title/>
+                <http://www.stackdata.com/title/VS.NET Application Diagrams> ;
+        <http://www.stackdata.com/answer-count/>
+                <http://www.stackdata.com/answer-count/3> ;
+        <http://www.stackdata.com/answers/>
+                <http://www.stackoverflow.com/questions/16556/answers#23837> ;
+        <http://www.stackdata.com/created-date/>
+                "2008-08-1920:5:21"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+        <http://www.stackdata.com/questionId/>
+                <http://www.stackdata.com/questionId/16556> ;
+        <http://www.stackdata.com/score/>
+                <http://www.stackdata.com/score/5> ;
+        <http://www.stackdata.com/tags/>
+                <http://www.stackdata.com/tags/.net> , <http://www.stackdata.com/tags/visual-studio> , <http://www.stackdata.com/tags/c#> , <http://www.stackdata.com/tags/architecture> , <http://www.stackdata.com/tags/diagram> ;
+        <http://www.stackdata.com/views/>
+                <http://www.stackdata.com/views/353> ;
+        <https://www.w3.org/2002/07/owl#sameAs>
+                <https://api.stackexchange.com/2.2/questions/16556?site=stackoverflow> ;
+        <isAnswered>  true .
+
+<http://www.stackdata.com/questions/33390>
+        <http://purl.org/dc/elements/1.1/title/>
+                <http://www.stackdata.com/title/Best use pattern for a DataContext> ;
+        <http://www.stackdata.com/answer-count/>
+                <http://www.stackdata.com/answer-count/2> ;
+        <http://www.stackdata.com/answers/>
+                <http://www.stackoverflow.com/questions/33390/answers#33405> ;
+        <http://www.stackdata.com/created-date/>
+                "2008-08-2924:2:15"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+        <http://www.stackdata.com/questionId/>
+                <http://www.stackdata.com/questionId/33390> ;
+        <http://www.stackdata.com/score/>
+                <http://www.stackdata.com/score/3> ;
+        <http://www.stackdata.com/tags/>
+                <http://www.stackdata.com/tags/linq-to-sql> , <http://www.stackdata.com/tags/.net-3.5> ;
+        <http://www.stackdata.com/views/>
+                <http://www.stackdata.com/views/678> ;
+        <https://www.w3.org/2002/07/owl#sameAs>
+                <https://api.stackexchange.com/2.2/questions/33390?site=stackoverflow> ;
+        <isAnswered>  true .
+
+<http://www.stackdata.com/questions/30004>
+        <http://purl.org/dc/elements/1.1/title/>
+                <http://www.stackdata.com/title/Can you use LINQ tools such as SQLMetal with an access database?> ;
+        <http://www.stackdata.com/answer-count/>
+                <http://www.stackdata.com/answer-count/4> ;
+        <http://www.stackdata.com/answers/>
+                <http://www.stackoverflow.com/questions/30004/answers#30388> ;
+        <http://www.stackdata.com/created-date/>
+                "2008-08-2715:51:57"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+        <http://www.stackdata.com/questionId/>
+                <http://www.stackdata.com/questionId/30004> ;
+        <http://www.stackdata.com/score/>
+                <http://www.stackdata.com/score/6> ;
+        <http://www.stackdata.com/tags/>
+                <http://www.stackdata.com/tags/c#> , <http://www.stackdata.com/tags/linq-to-sql> , <http://www.stackdata.com/tags/ms-access> ;
+        <http://www.stackdata.com/views/>
+                <http://www.stackdata.com/views/1715> ;
+        <https://www.w3.org/2002/07/owl#sameAs>
+                <https://api.stackexchange.com/2.2/questions/30004?site=stackoverflow> ;
+        <isAnswered>  true .
+
+<http://www.stackdata.com/questions/23205>
+        <http://purl.org/dc/elements/1.1/title/>
+                <http://www.stackdata.com/title/Boundary Tests For a Networked App> ;
+        <http://www.stackdata.com/answer-count/>
+                <http://www.stackdata.com/answer-count/5> ;
+        <http://www.stackdata.com/answers/>
+                <http://www.stackoverflow.com/questions/23205/answers#-1> ;
+        <http://www.stackdata.com/created-date/>
+                "2008-08-2222:2:9"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+        <http://www.stackdata.com/questionId/>
+                <http://www.stackdata.com/questionId/23205> ;
+        <http://www.stackdata.com/score/>
+                <http://www.stackdata.com/score/2> ;
+        <http://www.stackdata.com/tags/>
+                <http://www.stackdata.com/tags/testing> , <http://www.stackdata.com/tags/networking> , <http://www.stackdata.com/tags/wireless> ;
+        <http://www.stackdata.com/views/>
+                <http://www.stackdata.com/views/96> ;
+        <https://www.w3.org/2002/07/owl#sameAs>
+                <https://api.stackexchange.com/2.2/questions/23205?site=stackoverflow> ;
+        <isAnswered>  true .
+
+<http://www.stackdata.com/questions/35720>
+        <http://purl.org/dc/elements/1.1/title/>
+                <http://www.stackdata.com/title/Getting started with SideShow Devices> ;
+        <http://www.stackdata.com/answer-count/>
+                <http://www.stackdata.com/answer-count/1> ;
+        <http://www.stackdata.com/answers/>
+                <http://www.stackoverflow.com/questions/35720/answers#36807> ;
+        <http://www.stackdata.com/created-date/>
+                "2008-08-308:57:13"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+        <http://www.stackdata.com/questionId/>
+                <http://www.stackdata.com/questionId/35720> ;
+        <http://www.stackdata.com/score/>
+                <http://www.stackdata.com/score/0> ;
+        <http://www.stackdata.com/tags/>
+                <http://www.stackdata.com/tags/hardware> , <http://www.stackdata.com/tags/windows-vista> , <http://www.stackdata.com/tags/emulator> ;
+        <http://www.stackdata.com/views/>
+                <http://www.stackdata.com/views/119> ;
+        <https://www.w3.org/2002/07/owl#sameAs>
+                <https://api.stackexchange.com/2.2/questions/35720?site=stackoverflow> ;
+        <isAnswered>  true .
+
+<http://www.stackdata.com/questions/14923>
+        <http://purl.org/dc/elements/1.1/title/>
+                <http://www.stackdata.com/title/Can I generate ASP.NET MVC routes from a Sitemap?> ;
+        <http://www.stackdata.com/answer-count/>
+                <http://www.stackdata.com/answer-count/2> ;
+        <http://www.stackdata.com/answers/>
+                <http://www.stackoverflow.com/questions/14923/answers#36833> ;
+        <http://www.stackdata.com/created-date/>
+                "2008-08-1820:5:40"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+        <http://www.stackdata.com/questionId/>
+                <http://www.stackdata.com/questionId/14923> ;
+        <http://www.stackdata.com/score/>
+                <http://www.stackdata.com/score/3> ;
+        <http://www.stackdata.com/tags/>
+                <http://www.stackdata.com/tags/asp.net> , <http://www.stackdata.com/tags/asp.net-mvc> , <http://www.stackdata.com/tags/url> , <http://www.stackdata.com/tags/routing> , <http://www.stackdata.com/tags/sitemap> ;
+        <http://www.stackdata.com/views/>
+                <http://www.stackdata.com/views/1911> ;
+        <https://www.w3.org/2002/07/owl#sameAs>
+                <https://api.stackexchange.com/2.2/questions/14923?site=stackoverflow> ;
+        <isAnswered>  true .
+
+<http://www.stackdata.com/questions/35853>
+        <http://purl.org/dc/elements/1.1/title/>
+                <http://www.stackdata.com/title/P/Invoke in Mono> ;
+        <http://www.stackdata.com/answer-count/>
+                <http://www.stackdata.com/answer-count/1> ;
+        <http://www.stackdata.com/answers/>
+                <http://www.stackoverflow.com/questions/35853/answers#35873> ;
+        <http://www.stackdata.com/created-date/>
+                "2008-08-3013:4:55"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+        <http://www.stackdata.com/questionId/>
+                <http://www.stackdata.com/questionId/35853> ;
+        <http://www.stackdata.com/score/>
+                <http://www.stackdata.com/score/22> ;
+        <http://www.stackdata.com/tags/>
+                <http://www.stackdata.com/tags/.net> , <http://www.stackdata.com/tags/linux> , <http://www.stackdata.com/tags/mono> , <http://www.stackdata.com/tags/pinvoke> , <http://www.stackdata.com/tags/solaris> ;
+        <http://www.stackdata.com/views/>
+                <http://www.stackdata.com/views/3447> ;
+        <https://www.w3.org/2002/07/owl#sameAs>
+                <https://api.stackexchange.com/2.2/questions/35853?site=stackoverflow> ;
+        <isAnswered>  true .
+
+<http://www.stackdata.com/questions/20696>
+        <http://purl.org/dc/elements/1.1/title/>
+                <http://www.stackdata.com/title/How do I declare a list of fixed length in specman?> ;
+        <http://www.stackdata.com/answer-count/>
+                <http://www.stackdata.com/answer-count/2> ;
+        <http://www.stackdata.com/answers/>
+                <http://www.stackoverflow.com/questions/20696/answers#37438> ;
+        <http://www.stackdata.com/created-date/>
+                "2008-08-2121:13:1"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+        <http://www.stackdata.com/questionId/>
+                <http://www.stackdata.com/questionId/20696> ;
+        <http://www.stackdata.com/score/>
+                <http://www.stackdata.com/score/1> ;
+        <http://www.stackdata.com/tags/>
+                <http://www.stackdata.com/tags/hardware> , <http://www.stackdata.com/tags/specman> , <http://www.stackdata.com/tags/eda> ;
+        <http://www.stackdata.com/views/>
+                <http://www.stackdata.com/views/1246> ;
+        <https://www.w3.org/2002/07/owl#sameAs>
+                <https://api.stackexchange.com/2.2/questions/20696?site=stackoverflow> ;
+        <isAnswered>  true .
+
+<http://www.stackdata.com/questions/3234>
+        <http://purl.org/dc/elements/1.1/title/>
+                <http://www.stackdata.com/title/Displaying ad content from Respose.WriteFile()/ Response.ContentType> ;
+        <http://www.stackdata.com/answer-count/>
+                <http://www.stackdata.com/answer-count/3> ;
+        <http://www.stackdata.com/answers/>
+                <http://www.stackoverflow.com/questions/3234/answers#14496> ;
+        <http://www.stackdata.com/created-date/>
+                "2008-08-0612:52:36"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+        <http://www.stackdata.com/questionId/>
+                <http://www.stackdata.com/questionId/3234> ;
+        <http://www.stackdata.com/score/>
+                <http://www.stackdata.com/score/6> ;
+        <http://www.stackdata.com/tags/>
+                <http://www.stackdata.com/tags/c#> ;
+        <http://www.stackdata.com/views/>
+                <http://www.stackdata.com/views/16567> ;
+        <https://www.w3.org/2002/07/owl#sameAs>
+                <https://api.stackexchange.com/2.2/questions/3234?site=stackoverflow> ;
+        <isAnswered>  true .
+
+<http://www.stackdata.com/questions/37593>
+        <http://purl.org/dc/elements/1.1/title/>
+                <http://www.stackdata.com/title/Where can I get free Vista style developer graphics?> ;
+        <http://www.stackdata.com/answer-count/>
+                <http://www.stackdata.com/answer-count/3> ;
+        <http://www.stackdata.com/answers/>
+                <http://www.stackoverflow.com/questions/37593/answers#37596> ;
+        <http://www.stackdata.com/created-date/>
+                "2008-09-0111:4:39"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+        <http://www.stackdata.com/questionId/>
+                <http://www.stackdata.com/questionId/37593> ;
+        <http://www.stackdata.com/score/>
+                <http://www.stackdata.com/score/1> ;
+        <http://www.stackdata.com/tags/>
+                <http://www.stackdata.com/tags/winforms> , <http://www.stackdata.com/tags/graphics> ;
+        <http://www.stackdata.com/views/>
+                <http://www.stackdata.com/views/273> ;
+        <https://www.w3.org/2002/07/owl#sameAs>
+                <https://api.stackexchange.com/2.2/questions/37593?site=stackoverflow> ;
+        <isAnswered>  true .
+
+<http://www.stackdata.com/questions/36296>
+        <http://purl.org/dc/elements/1.1/title/>
+                <http://www.stackdata.com/title/What&#39;s the answer to this Microsoft PDC challenge?> ;
+        <http://www.stackdata.com/answer-count/>
+                <http://www.stackdata.com/answer-count/6> ;
+        <http://www.stackdata.com/answers/>
+                <http://www.stackoverflow.com/questions/36296/answers#37950> ;
+        <http://www.stackdata.com/created-date/>
+                "2008-08-3022:43:11"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+        <http://www.stackdata.com/questionId/>
+                <http://www.stackdata.com/questionId/36296> ;
+        <http://www.stackdata.com/score/>
+                <http://www.stackdata.com/score/3> ;
+        <http://www.stackdata.com/tags/>
+                <http://www.stackdata.com/tags/encryption> , <http://www.stackdata.com/tags/pdc> ;
+        <http://www.stackdata.com/views/>
+                <http://www.stackdata.com/views/622> ;
+        <https://www.w3.org/2002/07/owl#sameAs>
+                <https://api.stackexchange.com/2.2/questions/36296?site=stackoverflow> ;
+        <isAnswered>  true .
+
+<http://www.stackdata.com/questions/36642>
+        <http://purl.org/dc/elements/1.1/title/>
+                <http://www.stackdata.com/title/Listing Items and Displaying Data Inline> ;
+        <http://www.stackdata.com/answer-count/>
+                <http://www.stackdata.com/answer-count/1> ;
+        <http://www.stackdata.com/answers/>
+                <http://www.stackoverflow.com/questions/36642/answers#-1> ;
+        <http://www.stackdata.com/created-date/>
+                "2008-08-317:54:17"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+        <http://www.stackdata.com/questionId/>
+                <http://www.stackdata.com/questionId/36642> ;
+        <http://www.stackdata.com/score/>
+                <http://www.stackdata.com/score/0> ;
+        <http://www.stackdata.com/tags/>
+                <http://www.stackdata.com/tags/asp.net> , <http://www.stackdata.com/tags/.net-3.5> ;
+        <http://www.stackdata.com/views/>
+                <http://www.stackdata.com/views/138> ;
+        <https://www.w3.org/2002/07/owl#sameAs>
+                <https://api.stackexchange.com/2.2/questions/36642?site=stackoverflow> ;
+        <isAnswered>  true .
+
+<http://www.stackdata.com/questions/37821>
+        <http://purl.org/dc/elements/1.1/title/>
+                <http://www.stackdata.com/title/Viewing event log via a web interface> ;
+        <http://www.stackdata.com/answer-count/>
+                <http://www.stackdata.com/answer-count/2> ;
+        <http://www.stackdata.com/answers/>
+                <http://www.stackoverflow.com/questions/37821/answers#38114> ;
+        <http://www.stackdata.com/created-date/>
+                "2008-09-0115:5:22"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+        <http://www.stackdata.com/questionId/>
+                <http://www.stackdata.com/questionId/37821> ;
+        <http://www.stackdata.com/score/>
+                <http://www.stackdata.com/score/3> ;
+        <http://www.stackdata.com/tags/>
+                <http://www.stackdata.com/tags/asp.net> , <http://www.stackdata.com/tags/logging> , <http://www.stackdata.com/tags/iis> , <http://www.stackdata.com/tags/monitoring> ;
+        <http://www.stackdata.com/views/>
+                <http://www.stackdata.com/views/1546> ;
+        <https://www.w3.org/2002/07/owl#sameAs>
+                <https://api.stackexchange.com/2.2/questions/37821?site=stackoverflow> ;
+        <isAnswered>  true .
+
+<http://www.stackdata.com/questions/38107>
+        <http://purl.org/dc/elements/1.1/title/>
+                <http://www.stackdata.com/title/Cross Page Postback doesn&#39;t work for client-side enabled button> ;
+        <http://www.stackdata.com/answer-count/>
+                <http://www.stackdata.com/answer-count/1> ;
+        <http://www.stackdata.com/answers/>
+                <http://www.stackoverflow.com/questions/38107/answers#38128> ;
+        <http://www.stackdata.com/created-date/>
+                "2008-09-0119:20:44"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+        <http://www.stackdata.com/questionId/>
+                <http://www.stackdata.com/questionId/38107> ;
+        <http://www.stackdata.com/score/>
+                <http://www.stackdata.com/score/2> ;
+        <http://www.stackdata.com/tags/>
+                <http://www.stackdata.com/tags/asp.net> ;
+        <http://www.stackdata.com/views/>
+                <http://www.stackdata.com/views/903> ;
+        <https://www.w3.org/2002/07/owl#sameAs>
+                <https://api.stackexchange.com/2.2/questions/38107?site=stackoverflow> ;
+        <isAnswered>  true .
+
+<http://www.stackdata.com/questions/38158>
+        <http://purl.org/dc/elements/1.1/title/>
+                <http://www.stackdata.com/title/What is a good maintainability index using Visual Studio 2008 code analysis?> ;
+        <http://www.stackdata.com/answer-count/>
+                <http://www.stackdata.com/answer-count/2> ;
+        <http://www.stackdata.com/answers/>
+                <http://www.stackoverflow.com/questions/38158/answers#38179> ;
+        <http://www.stackdata.com/created-date/>
+                "2008-09-0119:46:46"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+        <http://www.stackdata.com/questionId/>
+                <http://www.stackdata.com/questionId/38158> ;
+        <http://www.stackdata.com/score/>
+                <http://www.stackdata.com/score/13> ;
+        <http://www.stackdata.com/tags/>
+                <http://www.stackdata.com/tags/visual-studio> , <http://www.stackdata.com/tags/code-analysis> ;
+        <http://www.stackdata.com/views/>
+                <http://www.stackdata.com/views/5294> ;
+        <https://www.w3.org/2002/07/owl#sameAs>
+                <https://api.stackexchange.com/2.2/questions/38158?site=stackoverflow> ;
+        <isAnswered>  true .
+
+<http://www.stackdata.com/questions/35219>
+        <http://purl.org/dc/elements/1.1/title/>
+                <http://www.stackdata.com/title/Optimizing/Customizing Sharepoint Search Crawling> ;
+        <http://www.stackdata.com/answer-count/>
+                <http://www.stackdata.com/answer-count/1> ;
+        <http://www.stackdata.com/answers/>
+                <http://www.stackoverflow.com/questions/35219/answers#38231> ;
+        <http://www.stackdata.com/created-date/>
+                "2008-08-2923:19:31"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+        <http://www.stackdata.com/questionId/>
+                <http://www.stackdata.com/questionId/35219> ;
+        <http://www.stackdata.com/score/>
+                <http://www.stackdata.com/score/5> ;
+        <http://www.stackdata.com/tags/>
+                <http://www.stackdata.com/tags/sharepoint> , <http://www.stackdata.com/tags/.net> , <http://www.stackdata.com/tags/c#> ;
+        <http://www.stackdata.com/views/>
+                <http://www.stackdata.com/views/981> ;
+        <https://www.w3.org/2002/07/owl#sameAs>
+                <https://api.stackexchange.com/2.2/questions/35219?site=stackoverflow> ;
+        <isAnswered>  true .
+
+<http://www.stackdata.com/questions/38151>
+        <http://purl.org/dc/elements/1.1/title/>
+                <http://www.stackdata.com/title/&lt;asp:hyperlink&gt; after opening target in new window - new window cannot be closed> ;
+        <http://www.stackdata.com/answer-count/>
+                <http://www.stackdata.com/answer-count/1> ;
+        <http://www.stackdata.com/answers/>
+                <http://www.stackoverflow.com/questions/38151/answers#-1> ;
+        <http://www.stackdata.com/created-date/>
+                "2008-09-0119:41:44"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+        <http://www.stackdata.com/questionId/>
+                <http://www.stackdata.com/questionId/38151> ;
+        <http://www.stackdata.com/score/>
+                <http://www.stackdata.com/score/0> ;
+        <http://www.stackdata.com/tags/>
+                <http://www.stackdata.com/tags/asp.net> ;
+        <http://www.stackdata.com/views/>
+                <http://www.stackdata.com/views/826> ;
+        <https://www.w3.org/2002/07/owl#sameAs>
+                <https://api.stackexchange.com/2.2/questions/38151?site=stackoverflow> ;
+        <isAnswered>  true .
+
+<http://www.stackdata.com/questions/33233>
+        <http://purl.org/dc/elements/1.1/title/>
+                <http://www.stackdata.com/title/Integrating a custom gui framework with the VS designer> ;
+        <http://www.stackdata.com/answer-count/>
+                <http://www.stackdata.com/answer-count/2> ;
+        <http://www.stackdata.com/answers/>
+                <http://www.stackoverflow.com/questions/33233/answers#33247> ;
+        <http://www.stackdata.com/created-date/>
+                "2008-08-2822:51:37"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+        <http://www.stackdata.com/questionId/>
+                <http://www.stackdata.com/questionId/33233> ;
+        <http://www.stackdata.com/score/>
+                <http://www.stackdata.com/score/0> ;
+        <http://www.stackdata.com/tags/>
+                <http://www.stackdata.com/tags/visual-studio> , <http://www.stackdata.com/tags/gui-designer> ;
+        <http://www.stackdata.com/views/>
+                <http://www.stackdata.com/views/266> ;
+        <https://www.w3.org/2002/07/owl#sameAs>
+                <https://api.stackexchange.com/2.2/questions/33233?site=stackoverflow> ;
+        <isAnswered>  true .
+
+<http://www.stackdata.com/questions/37529>
+        <http://purl.org/dc/elements/1.1/title/>
+                <http://www.stackdata.com/title/Simple audio input API on a Mac?> ;
+        <http://www.stackdata.com/answer-count/>
+                <http://www.stackdata.com/answer-count/3> ;
+        <http://www.stackdata.com/answers/>
+                <http://www.stackoverflow.com/questions/37529/answers#37784> ;
+        <http://www.stackdata.com/created-date/>
+                "2008-09-019:31:32"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+        <http://www.stackdata.com/questionId/>
+                <http://www.stackdata.com/questionId/37529> ;
+        <http://www.stackdata.com/score/>
+                <http://www.stackdata.com/score/7> ;
+        <http://www.stackdata.com/tags/>
+                <http://www.stackdata.com/tags/audio> , <http://www.stackdata.com/tags/osx> ;
+        <http://www.stackdata.com/views/>
+                <http://www.stackdata.com/views/5420> ;
+        <https://www.w3.org/2002/07/owl#sameAs>
+                <https://api.stackexchange.com/2.2/questions/37529?site=stackoverflow> ;
+        <isAnswered>  true .
+
+<http://www.stackdata.com/questions/25323>
+        <http://purl.org/dc/elements/1.1/title/>
+                <http://www.stackdata.com/title/WCF - Domain Objects and IExtensibleDataObject> ;
+        <http://www.stackdata.com/answer-count/>
+                <http://www.stackdata.com/answer-count/2> ;
+        <http://www.stackdata.com/answers/>
+                <http://www.stackoverflow.com/questions/25323/answers#28710> ;
+        <http://www.stackdata.com/created-date/>
+                "2008-08-2423:34:10"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+        <http://www.stackdata.com/questionId/>
+                <http://www.stackdata.com/questionId/25323> ;
+        <http://www.stackdata.com/score/>
+                <http://www.stackdata.com/score/10> ;
+        <http://www.stackdata.com/tags/>
+                <http://www.stackdata.com/tags/soap> , <http://www.stackdata.com/tags/wcf> , <http://www.stackdata.com/tags/serialization> , <http://www.stackdata.com/tags/domain-driven-design> , <http://www.stackdata.com/tags/soa> ;
+        <http://www.stackdata.com/views/>
+                <http://www.stackdata.com/views/2736> ;
+        <https://www.w3.org/2002/07/owl#sameAs>
+                <https://api.stackexchange.com/2.2/questions/25323?site=stackoverflow> ;
+        <isAnswered>  true .
+
+<http://www.stackdata.com/questions/37428>
+        <http://purl.org/dc/elements/1.1/title/>
+                <http://www.stackdata.com/title/Get back to basics. How do I get back into C++?> ;
+        <http://www.stackdata.com/answer-count/>
+                <http://www.stackdata.com/answer-count/7> ;
+        <http://www.stackdata.com/answers/>
+                <http://www.stackoverflow.com/questions/37428/answers#37461> ;
+        <http://www.stackdata.com/created-date/>
+                "2008-09-016:47:54"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+        <http://www.stackdata.com/questionId/>
+                <http://www.stackdata.com/questionId/37428> ;
+        <http://www.stackdata.com/score/>
+                <http://www.stackdata.com/score/6> ;
+        <http://www.stackdata.com/tags/>
+                <http://www.stackdata.com/tags/c++> ;
+        <http://www.stackdata.com/views/>
+                <http://www.stackdata.com/views/877> ;
+        <https://www.w3.org/2002/07/owl#sameAs>
+                <https://api.stackexchange.com/2.2/questions/37428?site=stackoverflow> ;
+        <isAnswered>  true .
+
+<http://www.stackdata.com/questions/37731>
+        <http://purl.org/dc/elements/1.1/title/>
+                <http://www.stackdata.com/title/To use views or not to use views> ;
+        <http://www.stackdata.com/answer-count/>
+                <http://www.stackdata.com/answer-count/5> ;
+        <http://www.stackdata.com/answers/>
+                <http://www.stackoverflow.com/questions/37731/answers#37768> ;
+        <http://www.stackdata.com/created-date/>
+                "2008-09-0113:55:18"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+        <http://www.stackdata.com/questionId/>
+                <http://www.stackdata.com/questionId/37731> ;
+        <http://www.stackdata.com/score/>
+                <http://www.stackdata.com/score/5> ;
+        <http://www.stackdata.com/tags/>
+                <http://www.stackdata.com/tags/php> , <http://www.stackdata.com/tags/model-view-controller> ;
+        <http://www.stackdata.com/views/>
+                <http://www.stackdata.com/views/354> ;
+        <https://www.w3.org/2002/07/owl#sameAs>
+                <https://api.stackexchange.com/2.2/questions/37731?site=stackoverflow> ;
+        <isAnswered>  true .
+
+<http://www.stackdata.com/questions/38654>
+        <http://purl.org/dc/elements/1.1/title/>
+                <http://www.stackdata.com/title/Automatically floating all fields in a VFP report?> ;
+        <http://www.stackdata.com/answer-count/>
+                <http://www.stackdata.com/answer-count/1> ;
+        <http://www.stackdata.com/answers/>
+                <http://www.stackoverflow.com/questions/38654/answers#38685> ;
+        <http://www.stackdata.com/created-date/>
+                "2008-09-023:33:9"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+        <http://www.stackdata.com/questionId/>
+                <http://www.stackdata.com/questionId/38654> ;
+        <http://www.stackdata.com/score/>
+                <http://www.stackdata.com/score/1> ;
+        <http://www.stackdata.com/tags/>
+                <http://www.stackdata.com/tags/report> , <http://www.stackdata.com/tags/foxpro> , <http://www.stackdata.com/tags/visual-foxpro> ;
+        <http://www.stackdata.com/views/>
+                <http://www.stackdata.com/views/752> ;
+        <https://www.w3.org/2002/07/owl#sameAs>
+                <https://api.stackexchange.com/2.2/questions/38654?site=stackoverflow> ;
+        <isAnswered>  true .
+
+<http://www.stackdata.com/questions/38789>
+        <http://purl.org/dc/elements/1.1/title/>
+                <http://www.stackdata.com/title/Web Service Namespace Dynamic Naming> ;
+        <http://www.stackdata.com/answer-count/>
+                <http://www.stackdata.com/answer-count/1> ;
+        <http://www.stackdata.com/answers/>
+                <http://www.stackoverflow.com/questions/38789/answers#38792> ;
+        <http://www.stackdata.com/created-date/>
+                "2008-09-026:59:44"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+        <http://www.stackdata.com/questionId/>
+                <http://www.stackdata.com/questionId/38789> ;
+        <http://www.stackdata.com/score/>
+                <http://www.stackdata.com/score/3> ;
+        <http://www.stackdata.com/tags/>
+                <http://www.stackdata.com/tags/web-services> , <http://www.stackdata.com/tags/c#> ;
+        <http://www.stackdata.com/views/>
+                <http://www.stackdata.com/views/3242> ;
+        <https://www.w3.org/2002/07/owl#sameAs>
+                <https://api.stackexchange.com/2.2/questions/38789?site=stackoverflow> ;
+        <isAnswered>  true .
+
+<http://www.stackdata.com/questions/37832>
+        <http://purl.org/dc/elements/1.1/title/>
+                <http://www.stackdata.com/title/UI and event testing> ;
+        <http://www.stackdata.com/answer-count/>
+                <http://www.stackdata.com/answer-count/4> ;
+        <http://www.stackdata.com/answers/>
+                <http://www.stackoverflow.com/questions/37832/answers#37853> ;
+        <http://www.stackdata.com/created-date/>
+                "2008-09-0115:9:10"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+        <http://www.stackdata.com/questionId/>
+                <http://www.stackdata.com/questionId/37832> ;
+        <http://www.stackdata.com/score/>
+                <http://www.stackdata.com/score/2> ;
+        <http://www.stackdata.com/tags/>
+                <http://www.stackdata.com/tags/unit-testing> , <http://www.stackdata.com/tags/visual-studio> , <http://www.stackdata.com/tags/user-interface> , <http://www.stackdata.com/tags/tdd> ;
+        <http://www.stackdata.com/views/>
+                <http://www.stackdata.com/views/414> ;
+        <https://www.w3.org/2002/07/owl#sameAs>
+                <https://api.stackexchange.com/2.2/questions/37832?site=stackoverflow> ;
+        <isAnswered>  true .
+
+<http://www.stackdata.com/questions/33990>
+        <http://purl.org/dc/elements/1.1/title/>
+                <http://www.stackdata.com/title/Can&#39;t create a subversion repository with Eclipse 3.4.0, svn 1.5.1> ;
+        <http://www.stackdata.com/answer-count/>
+                <http://www.stackdata.com/answer-count/2> ;
+        <http://www.stackdata.com/answers/>
+                <http://www.stackoverflow.com/questions/33990/answers#34074> ;
+        <http://www.stackdata.com/created-date/>
+                "2008-08-298:12:7"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+        <http://www.stackdata.com/questionId/>
+                <http://www.stackdata.com/questionId/33990> ;
+        <http://www.stackdata.com/score/>
+                <http://www.stackdata.com/score/4> ;
+        <http://www.stackdata.com/tags/>
+                <http://www.stackdata.com/tags/osx> , <http://www.stackdata.com/tags/eclipse> , <http://www.stackdata.com/tags/svn> ;
+        <http://www.stackdata.com/views/>
+                <http://www.stackdata.com/views/4092> ;
+        <https://www.w3.org/2002/07/owl#sameAs>
+                <https://api.stackexchange.com/2.2/questions/33990?site=stackoverflow> ;
+        <isAnswered>  true .
+
+<http://www.stackdata.com/questions/38824>
+        <http://purl.org/dc/elements/1.1/title/>
+                <http://www.stackdata.com/title/Is Wiki Content Portable?> ;
+        <http://www.stackdata.com/answer-count/>
+                <http://www.stackdata.com/answer-count/3> ;
+        <http://www.stackdata.com/answers/>
+                <http://www.stackoverflow.com/questions/38824/answers#38851> ;
+        <http://www.stackdata.com/created-date/>
+                "2008-09-027:38:6"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+        <http://www.stackdata.com/questionId/>
+                <http://www.stackdata.com/questionId/38824> ;
+        <http://www.stackdata.com/score/>
+                <http://www.stackdata.com/score/7> ;
+        <http://www.stackdata.com/tags/>
+                <http://www.stackdata.com/tags/wiki> ;
+        <http://www.stackdata.com/views/>
+                <http://www.stackdata.com/views/1011> ;
+        <https://www.w3.org/2002/07/owl#sameAs>
+                <https://api.stackexchange.com/2.2/questions/38824?site=stackoverflow> ;
+        <isAnswered>  true .
+
+<http://www.stackdata.com/questions/30653>
+        <http://purl.org/dc/elements/1.1/title/>
+                <http://www.stackdata.com/title/What do I need to do to implement an &quot;out of proc&quot; COM server in C#?> ;
+        <http://www.stackdata.com/answer-count/>
+                <http://www.stackdata.com/answer-count/4> ;
+        <http://www.stackdata.com/answers/>
+                <http://www.stackoverflow.com/questions/30653/answers#39106> ;
+        <http://www.stackdata.com/created-date/>
+                "2008-08-2720:8:47"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+        <http://www.stackdata.com/questionId/>
+                <http://www.stackdata.com/questionId/30653> ;
+        <http://www.stackdata.com/score/>
+                <http://www.stackdata.com/score/8> ;
+        <http://www.stackdata.com/tags/>
+                <http://www.stackdata.com/tags/c#> , <http://www.stackdata.com/tags/com> , <http://www.stackdata.com/tags/interop> ;
+        <http://www.stackdata.com/views/>
+                <http://www.stackdata.com/views/4372> ;
+        <https://www.w3.org/2002/07/owl#sameAs>
+                <https://api.stackexchange.com/2.2/questions/30653?site=stackoverflow> ;
+        <isAnswered>  true .
+
+<http://www.stackdata.com/questions/38664>
+        <http://purl.org/dc/elements/1.1/title/>
+                <http://www.stackdata.com/title/Can you modify text files when committing to subversion?> ;
+        <http://www.stackdata.com/answer-count/>
+                <http://www.stackdata.com/answer-count/1> ;
+        <http://www.stackdata.com/answers/>
+                <http://www.stackoverflow.com/questions/38664/answers#38666> ;
+        <http://www.stackdata.com/created-date/>
+                "2008-09-024:1:56"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+        <http://www.stackdata.com/questionId/>
+                <http://www.stackdata.com/questionId/38664> ;
+        <http://www.stackdata.com/score/>
+                <http://www.stackdata.com/score/3> ;
+        <http://www.stackdata.com/tags/>
+                <http://www.stackdata.com/tags/svn> , <http://www.stackdata.com/tags/hook> ;
+        <http://www.stackdata.com/views/>
+                <http://www.stackdata.com/views/490> ;
+        <https://www.w3.org/2002/07/owl#sameAs>
+                <https://api.stackexchange.com/2.2/questions/38664?site=stackoverflow> ;
+        <isAnswered>  true .
+
+<http://www.stackdata.com/questions/20782>
+        <http://purl.org/dc/elements/1.1/title/>
+                <http://www.stackdata.com/title/Call Project Server Interface web method from an msi installer> ;
+        <http://www.stackdata.com/answer-count/>
+                <http://www.stackdata.com/answer-count/2> ;
+        <http://www.stackdata.com/answers/>
+                <http://www.stackoverflow.com/questions/20782/answers#23056> ;
+        <http://www.stackdata.com/created-date/>
+                "2008-08-2121:55:15"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+        <http://www.stackdata.com/questionId/>
+                <http://www.stackdata.com/questionId/20782> ;
+        <http://www.stackdata.com/score/>
+                <http://www.stackdata.com/score/1> ;
+        <http://www.stackdata.com/tags/>
+                <http://www.stackdata.com/tags/windows-installer> , <http://www.stackdata.com/tags/methods> , <http://www.stackdata.com/tags/action> ;
+        <http://www.stackdata.com/views/>
+                <http://www.stackdata.com/views/463> ;
+        <https://www.w3.org/2002/07/owl#sameAs>
+                <https://api.stackexchange.com/2.2/questions/20782?site=stackoverflow> ;
+        <isAnswered>  true .
+
+<http://www.stackdata.com/questions/39125>
+        <http://purl.org/dc/elements/1.1/title/>
+                <http://www.stackdata.com/title/How can a .net class library be protected so it cant be referenced by other applications?> ;
+        <http://www.stackdata.com/answer-count/>
+                <http://www.stackdata.com/answer-count/4> ;
+        <http://www.stackdata.com/answers/>
+                <http://www.stackoverflow.com/questions/39125/answers#-1> ;
+        <http://www.stackdata.com/created-date/>
+                "2008-09-0212:49:42"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+        <http://www.stackdata.com/questionId/>
+                <http://www.stackdata.com/questionId/39125> ;
+        <http://www.stackdata.com/score/>
+                <http://www.stackdata.com/score/3> ;
+        <http://www.stackdata.com/tags/>
+                <http://www.stackdata.com/tags/.net> , <http://www.stackdata.com/tags/c#> , <http://www.stackdata.com/tags/class-library> ;
+        <http://www.stackdata.com/views/>
+                <http://www.stackdata.com/views/533> ;
+        <https://www.w3.org/2002/07/owl#sameAs>
+                <https://api.stackexchange.com/2.2/questions/39125?site=stackoverflow> ;
+        <isAnswered>  true .
+
+<http://www.stackdata.com/questions/38974>
+        <http://purl.org/dc/elements/1.1/title/>
+                <http://www.stackdata.com/title/Tool to check Doxygen markup is up to date> ;
+        <http://www.stackdata.com/answer-count/>
+                <http://www.stackdata.com/answer-count/1> ;
+        <http://www.stackdata.com/answers/>
+                <http://www.stackoverflow.com/questions/38974/answers#39163> ;
+        <http://www.stackdata.com/created-date/>
+                "2008-09-0210:23:14"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+        <http://www.stackdata.com/questionId/>
+                <http://www.stackdata.com/questionId/38974> ;
+        <http://www.stackdata.com/score/>
+                <http://www.stackdata.com/score/3> ;
+        <http://www.stackdata.com/tags/>
+                <http://www.stackdata.com/tags/c++> , <http://www.stackdata.com/tags/documentation> , <http://www.stackdata.com/tags/doxygen> ;
+        <http://www.stackdata.com/views/>
+                <http://www.stackdata.com/views/1101> ;
+        <https://www.w3.org/2002/07/owl#sameAs>
+                <https://api.stackexchange.com/2.2/questions/38974?site=stackoverflow> ;
+        <isAnswered>  true .

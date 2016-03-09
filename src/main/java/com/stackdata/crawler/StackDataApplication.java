@@ -32,7 +32,7 @@ public class StackDataApplication {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-		// new RDFStore().outputModelInFile();
+		new QuestionWriter().outputModelInFile();
 	}
 
 	// Using stack exchange api

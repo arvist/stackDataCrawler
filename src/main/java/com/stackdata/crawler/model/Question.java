@@ -13,7 +13,8 @@ public class Question {
 	private long acceptedAnswerId;
 	private long score;
 	private Date createdDate;
-	private String selfLink; // done
+	private String selfLink;
+	// TODO replace whitespaces with - to create valid URI's
 	private String title;
 
 	public long getQuestionId() {
