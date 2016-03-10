@@ -1,51 +1,32 @@
 package com.stackdata.crawler.writer;
 
-import java.io.BufferedWriter;
-import java.io.File;
-import java.io.FileNotFoundException;
-import java.io.FileOutputStream;
-import java.io.OutputStreamWriter;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.List;
 
 import org.apache.jena.datatypes.RDFDatatype;
 import org.apache.jena.datatypes.TypeMapper;
-import org.apache.jena.query.Dataset;
 import org.apache.jena.rdf.model.Literal;
 import org.apache.jena.rdf.model.Model;
-import org.apache.jena.rdf.model.ModelFactory;
 import org.apache.jena.rdf.model.Property;
 import org.apache.jena.rdf.model.Resource;
 import org.apache.jena.rdf.model.Statement;
 import org.apache.jena.shared.Lock;
 import org.apache.jena.tdb.TDB;
-import org.apache.jena.tdb.TDBFactory;
 
 import com.stackdata.crawler.model.Question;
 import com.stackdata.crawler.repository.NamespaceRepository;
 import com.stackdata.crawler.repository.ParamRepository;
+import com.stackdata.tdb.StackTdbFactory;
 
 public class QuestionWriter {
 
-	private Dataset dataset = TDBFactory.createDataset("src/main/resources/tbd");
-	private static final String QUESTION_MODEL = "Question";
+	private StackTdbFactory tbdFactory = StackTdbFactory.getInstance();
 	private static final boolean RDF_WRITE_SUCCESSFUL = true;
 	private Model model;
 
-	public void outputModelInFile() {
-		model = getModelByName(QUESTION_MODEL);
-		try {
-			File file = new File("src/main/resources/out.rdf");
-			model.write(new BufferedWriter(new OutputStreamWriter(new FileOutputStream(file, false))), "" + "TTL");
-		} catch (FileNotFoundException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
-	}
-
 	public boolean writeQuestion(List<Question> questions) {
-		model = getModelByName(QUESTION_MODEL);
+		model = tbdFactory.getModelByName(StackTdbFactory.QUESTION_MODEL);
 		try {
 			model.enterCriticalSection(Lock.WRITE);
 			for (Question question : questions) {
@@ -157,14 +138,6 @@ public class QuestionWriter {
 		Resource object = model
 				.createResource(NamespaceRepository.STACKDATA_NAMESPACE.concat(ParamRepository.SCORE).concat(score));
 		connect(subject, predicate, object);
-	}
-
-	private Model getModelByName(String modelName) {
-		if (dataset.getNamedModel(modelName) == null) {
-			return ModelFactory.createDefaultModel();
-		} else {
-			return dataset.getNamedModel(QUESTION_MODEL);
-		}
 	}
 
 	private Statement connect(Resource subject, Property predicate, Resource object) {

@@ -14,7 +14,6 @@ public class Question {
 	private long score;
 	private Date createdDate;
 	private String selfLink;
-	// TODO replace whitespaces with - to create valid URI's
 	private String title;
 
 	public long getQuestionId() {
@@ -94,7 +93,7 @@ public class Question {
 	}
 
 	public void setTitle(String title) {
-		this.title = title;
+		this.title = title.replaceAll(" ", "-").toLowerCase();
 	}
 
 	@Override

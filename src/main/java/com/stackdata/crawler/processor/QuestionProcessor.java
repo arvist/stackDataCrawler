@@ -9,7 +9,7 @@ import org.json.simple.JSONObject;
 
 import com.stackdata.crawler.model.Question;
 
-public class JsonProcessor {
+public class QuestionProcessor {
 	List<Question> questionList = new ArrayList<Question>();
 
 	public List<Question> processQuestion(JSONObject json) {
